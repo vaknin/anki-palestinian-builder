@@ -1,0 +1,68 @@
+/* Modern Anki Card Styling for Arabic-English Cards */
+
+/* Base card styling */
+.card {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    color: #ffffff;
+    background-color: #1a1a1a;
+    padding: 2rem;
+    max-width: 800px;
+    margin: 0 auto;
+    line-height: 1.5;
+}
+
+/* English text styling */
+.english {
+    font-size: 5rem;
+    font-weight: 500;
+    margin: 1rem 0;
+    color: #ffffff;
+}
+
+/* Arabic text styling */
+.arabic {
+    font-size: 6rem;
+    font-family: "Noto Naskh Arabic", "Amiri", "Scheherazade New", "Traditional Arabic", "Arabic Typesetting", Arial;
+    direction: rtl;
+    font-weight: 400;
+    margin: 1rem 0;
+    color: #ffffff;
+}
+
+/* Pronunciation styling */
+.pronunciation {
+    font-size: 2.6rem;
+    color: #b0b0b0;
+    font-style: italic;
+    margin-top: 1rem;
+    font-weight: 300;
+}
+
+/* Divider between front and back */
+hr {
+    border: none;
+    border-top: 2px solid #444;
+    margin: 1.5rem auto;
+    max-width: 400px;
+}
+
+/* Responsive sizing for mobile */
+.mobile .card {
+    font-size: 18px;
+    padding: 1.5rem;
+    max-width: 100%;
+}
+
+.mobile .english {
+    font-size: 4rem;
+}
+
+.mobile .arabic {
+    font-size: 5rem;
+}
+
+.mobile .pronunciation {
+    font-size: 2.2rem;
+}

@@ -1,0 +1,13 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Generated/runtime files
+remaining_words.json
+*.log
+
+# Backup files
+*.backup

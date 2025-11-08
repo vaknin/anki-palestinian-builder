@@ -1,0 +1,5360 @@
+[
+  {
+    "english": "A lot / Many / Very",
+    "arabic": "كْتير",
+    "pronunciation": "kteer",
+    "index": 1
+  },
+  {
+    "english": "About",
+    "arabic": "عَنّ",
+    "pronunciation": "3ann",
+    "index": 2
+  },
+  {
+    "english": "Above",
+    "arabic": "فوق",
+    "pronunciation": "fooq",
+    "index": 3
+  },
+  {
+    "english": "Absence",
+    "arabic": "غِيَاب",
+    "pronunciation": "ghiyaab",
+    "index": 4
+  },
+  {
+    "english": "Actor",
+    "arabic": "مُمَثّل",
+    "pronunciation": "mumaththil",
+    "index": 5
+  },
+  {
+    "english": "Actress",
+    "arabic": "مُمَثّلة",
+    "pronunciation": "mumaththila",
+    "index": 6
+  },
+  {
+    "english": "Address",
+    "arabic": "عِنْوان",
+    "pronunciation": "3inwaan",
+    "index": 7
+  },
+  {
+    "english": "Advertisement",
+    "arabic": "دِعايِة",
+    "pronunciation": "di3aayeh",
+    "index": 8
+  },
+  {
+    "english": "Advice",
+    "arabic": "نَصيحة",
+    "pronunciation": "naSiiHa",
+    "index": 9
+  },
+  {
+    "english": "After",
+    "arabic": "بَعْد",
+    "pronunciation": "ba3d",
+    "index": 10
+  },
+  {
+    "english": "Against",
+    "arabic": "ضِدّ",
+    "pronunciation": "Didd",
+    "index": 11
+  },
+  {
+    "english": "Age",
+    "arabic": "عُمُر",
+    "pronunciation": "3umur",
+    "index": 12
+  },
+  {
+    "english": "Agreement",
+    "arabic": "اِتِّفاق",
+    "pronunciation": "ittifaaq",
+    "index": 13
+  },
+  {
+    "english": "Air",
+    "arabic": "هَوَا",
+    "pronunciation": "hawa",
+    "index": 14
+  },
+  {
+    "english": "Airport",
+    "arabic": "مَطار",
+    "pronunciation": "maTaar",
+    "index": 15
+  },
+  {
+    "english": "All / Every / Everyone",
+    "arabic": "كُلّ",
+    "pronunciation": "kull",
+    "index": 16
+  },
+  {
+    "english": "Allergy",
+    "arabic": "حَسَاسِيّة",
+    "pronunciation": "Hasaasiyyeh",
+    "index": 17
+  },
+  {
+    "english": "Almost",
+    "arabic": "تَقْريباً",
+    "pronunciation": "taqriiban",
+    "index": 18
+  },
+  {
+    "english": "Also / Too",
+    "arabic": "كَمان",
+    "pronunciation": "kamaan",
+    "index": 19
+  },
+  {
+    "english": "Always",
+    "arabic": "دايْماً",
+    "pronunciation": "daayman",
+    "index": 20
+  },
+  {
+    "english": "Amazing",
+    "arabic": "رَهِيب",
+    "pronunciation": "rahiib",
+    "index": 21
+  },
+  {
+    "english": "Amount",
+    "arabic": "مَبْلَغ",
+    "pronunciation": "mablagh",
+    "index": 22
+  },
+  {
+    "english": "And",
+    "arabic": "و",
+    "pronunciation": "u",
+    "index": 23
+  },
+  {
+    "english": "Anger",
+    "arabic": "غَضَب",
+    "pronunciation": "ghaDab",
+    "index": 24
+  },
+  {
+    "english": "Angry",
+    "arabic": "مْعَصِّب",
+    "pronunciation": "m3aSSib",
+    "index": 25
+  },
+  {
+    "english": "Animal",
+    "arabic": "حَيْوان",
+    "pronunciation": "Haywaan",
+    "index": 26
+  },
+  {
+    "english": "Annoyed",
+    "arabic": "مِتْضَايِق / مَزْعوج",
+    "pronunciation": "mitDaayiq / maz3uuj",
+    "index": 27
+  },
+  {
+    "english": "Annoying",
+    "arabic": "مُزْعِج",
+    "pronunciation": "muz3ij",
+    "index": 28
+  },
+  {
+    "english": "Answer",
+    "arabic": "جَواب",
+    "pronunciation": "jawaab",
+    "index": 29
+  },
+  {
+    "english": "Any",
+    "arabic": "أَيّ",
+    "pronunciation": "ayy",
+    "index": 30
+  },
+  {
+    "english": "Anyone",
+    "arabic": "أيّ حَدَا",
+    "pronunciation": "Ayy / Hada",
+    "index": 31
+  },
+  {
+    "english": "Anything",
+    "arabic": "أَيّ إشي",
+    "pronunciation": "ayy ishiy",
+    "index": 32
+  },
+  {
+    "english": "Appearance/ shape",
+    "arabic": "شَكِل",
+    "pronunciation": "shakil",
+    "index": 33
+  },
+  {
+    "english": "Apple",
+    "arabic": "تُفَّاح",
+    "pronunciation": "tuffaaH",
+    "index": 34
+  },
+  {
+    "english": "Appointment",
+    "arabic": "مَوْعِد",
+    "pronunciation": "maw3id",
+    "index": 35
+  },
+  {
+    "english": "Arab",
+    "arabic": "عَرَبي",
+    "pronunciation": "3arabi",
+    "index": 36
+  },
+  {
+    "english": "Area / Region",
+    "arabic": "مَنْطِقَة",
+    "pronunciation": "manTiqa",
+    "index": 37
+  },
+  {
+    "english": "Argument",
+    "arabic": "جِدَال",
+    "pronunciation": "jidaal",
+    "index": 38
+  },
+  {
+    "english": "Army",
+    "arabic": "جيش",
+    "pronunciation": "jaish",
+    "index": 39
+  },
+  {
+    "english": "Around",
+    "arabic": "حَوالِي",
+    "pronunciation": "Hawaaliy",
+    "index": 40
+  },
+  {
+    "english": "Arrive",
+    "arabic": "وِصِل",
+    "pronunciation": "wiSil",
+    "index": 41
+  },
+  {
+    "english": "Art",
+    "arabic": "فَنّ",
+    "pronunciation": "fann",
+    "index": 42
+  },
+  {
+    "english": "Artist",
+    "arabic": "فَنّان",
+    "pronunciation": "fannaan",
+    "index": 43
+  },
+  {
+    "english": "As",
+    "arabic": "__كَ",
+    "pronunciation": "ka____",
+    "index": 44
+  },
+  {
+    "english": "Aunt (maternal) / Aunt (paternal)",
+    "arabic": "خَالِة / عَمِّة",
+    "pronunciation": "khaaleh / 3ammeh",
+    "index": 45
+  },
+  {
+    "english": "Autumn",
+    "arabic": "خَرِيف",
+    "pronunciation": "khariif",
+    "index": 46
+  },
+  {
+    "english": "Available",
+    "arabic": "مَوْجُود",
+    "pronunciation": "mawjood",
+    "index": 47
+  },
+  {
+    "english": "Awesome",
+    "arabic": "رَائِع",
+    "pronunciation": "raa’i3",
+    "index": 48
+  },
+  {
+    "english": "Baby",
+    "arabic": "بَيْبَي",
+    "pronunciation": "baby",
+    "index": 49
+  },
+  {
+    "english": "Back",
+    "arabic": "ظَهِر",
+    "pronunciation": "DHahir",
+    "index": 50
+  },
+  {
+    "english": "Bad",
+    "arabic": "سَيِّء",
+    "pronunciation": "sayyi’",
+    "index": 51
+  },
+  {
+    "english": "Bakery",
+    "arabic": "مَخْبَز",
+    "pronunciation": "makhbaz",
+    "index": 52
+  },
+  {
+    "english": "Balance (finances)",
+    "arabic": "رَصِيد",
+    "pronunciation": "raSiid",
+    "index": 53
+  },
+  {
+    "english": "Banana",
+    "arabic": "موز",
+    "pronunciation": "mooz",
+    "index": 54
+  },
+  {
+    "english": "Bank",
+    "arabic": "بَنْك",
+    "pronunciation": "bank",
+    "index": 55
+  },
+  {
+    "english": "Basic",
+    "arabic": "أَساسي",
+    "pronunciation": "asaasiy",
+    "index": 56
+  },
+  {
+    "english": "Bathroom",
+    "arabic": "حَمّام",
+    "pronunciation": "Hammaam",
+    "index": 57
+  },
+  {
+    "english": "Beard",
+    "arabic": "لَحْيِة",
+    "pronunciation": "lahiyeh",
+    "index": 58
+  },
+  {
+    "english": "Beautiful",
+    "arabic": "جَميل / حِلو",
+    "pronunciation": "jamiil / Hilou",
+    "index": 59
+  },
+  {
+    "english": "Because",
+    "arabic": "عَشان / لَإنّه",
+    "pronunciation": "3ashaan / la’inno",
+    "index": 60
+  },
+  {
+    "english": "Become",
+    "arabic": "صار",
+    "pronunciation": "Saar",
+    "index": 61
+  },
+  {
+    "english": "Bed",
+    "arabic": "تَخِت",
+    "pronunciation": "takhit",
+    "index": 62
+  },
+  {
+    "english": "Bedroom",
+    "arabic": "غُرْفِة النّوم",
+    "pronunciation": "ghurfet an-noom",
+    "index": 63
+  },
+  {
+    "english": "Before",
+    "arabic": "قَبْل",
+    "pronunciation": "qabl",
+    "index": 64
+  },
+  {
+    "english": "Beginning",
+    "arabic": "بِداية",
+    "pronunciation": "bidaayeh",
+    "index": 65
+  },
+  {
+    "english": "Belt",
+    "arabic": "حِزام",
+    "pronunciation": "Hizaam",
+    "index": 66
+  },
+  {
+    "english": "Betrayal",
+    "arabic": "خِيَانِة",
+    "pronunciation": "khiyaaneh",
+    "index": 67
+  },
+  {
+    "english": "Better",
+    "arabic": "أَحْسَن",
+    "pronunciation": "aHsan",
+    "index": 68
+  },
+  {
+    "english": "Between",
+    "arabic": "بَيْن",
+    "pronunciation": "bayn",
+    "index": 69
+  },
+  {
+    "english": "Big / Old (people)",
+    "arabic": "كْبير",
+    "pronunciation": "kbiir",
+    "index": 70
+  },
+  {
+    "english": "Bike",
+    "arabic": "بَسْكَلِيت",
+    "pronunciation": "baskaleet",
+    "index": 71
+  },
+  {
+    "english": "Bill (e.g. in a restaurant) / Bill/ invoice",
+    "arabic": "حِسَاب / فَاتُورَة",
+    "pronunciation": "Hisaab / faatuura",
+    "index": 72
+  },
+  {
+    "english": "Bird",
+    "arabic": "عَصْفُور",
+    "pronunciation": "3aSfuur",
+    "index": 73
+  },
+  {
+    "english": "Black",
+    "arabic": "أَسْوَد",
+    "pronunciation": "aswad",
+    "index": 74
+  },
+  {
+    "english": "Blanket",
+    "arabic": "حْرام",
+    "pronunciation": "Hraam",
+    "index": 75
+  },
+  {
+    "english": "Blouse",
+    "arabic": "بْلُوزة",
+    "pronunciation": "bluuzah",
+    "index": 76
+  },
+  {
+    "english": "Blue",
+    "arabic": "أزْرَق",
+    "pronunciation": "azraq",
+    "index": 77
+  },
+  {
+    "english": "Boat",
+    "arabic": "مَرْكَب",
+    "pronunciation": "markab",
+    "index": 78
+  },
+  {
+    "english": "Body",
+    "arabic": "جِسْم",
+    "pronunciation": "jism",
+    "index": 79
+  },
+  {
+    "english": "Book",
+    "arabic": "كِتاب",
+    "pronunciation": "kitaab",
+    "index": 80
+  },
+  {
+    "english": "Border / Limit",
+    "arabic": "حَدّ",
+    "pronunciation": "Hadd",
+    "index": 81
+  },
+  {
+    "english": "Bored",
+    "arabic": "زَهْقان",
+    "pronunciation": "zahqaan",
+    "index": 82
+  },
+  {
+    "english": "Boring",
+    "arabic": "مُمِلّ",
+    "pronunciation": "mumill",
+    "index": 83
+  },
+  {
+    "english": "Box",
+    "arabic": "صَنْدوق",
+    "pronunciation": "Sanduuq",
+    "index": 84
+  },
+  {
+    "english": "Boy",
+    "arabic": "وَلَد",
+    "pronunciation": "walad",
+    "index": 85
+  },
+  {
+    "english": "Break",
+    "arabic": "اِسْتِراحَة",
+    "pronunciation": "istiraaHa",
+    "index": 86
+  },
+  {
+    "english": "Breakfast",
+    "arabic": "فْطُور",
+    "pronunciation": "fTuur",
+    "index": 87
+  },
+  {
+    "english": "Bride",
+    "arabic": "عَرُوس",
+    "pronunciation": "3aruus",
+    "index": 88
+  },
+  {
+    "english": "Bridge",
+    "arabic": "جِسِر",
+    "pronunciation": "jisir",
+    "index": 89
+  },
+  {
+    "english": "Brother",
+    "arabic": "أَخُو",
+    "pronunciation": "akhu",
+    "index": 90
+  },
+  {
+    "english": "Brush",
+    "arabic": "فُرشاي",
+    "pronunciation": "furshaay",
+    "index": 91
+  },
+  {
+    "english": "Building",
+    "arabic": "بِنايِة",
+    "pronunciation": "binaayeh",
+    "index": 92
+  },
+  {
+    "english": "Bus",
+    "arabic": "باص",
+    "pronunciation": "baaS",
+    "index": 93
+  },
+  {
+    "english": "Busy",
+    "arabic": "مَشْغول",
+    "pronunciation": "mashghuul",
+    "index": 94
+  },
+  {
+    "english": "But",
+    "arabic": "بَس",
+    "pronunciation": "bas",
+    "index": 95
+  },
+  {
+    "english": "Camel",
+    "arabic": "جَمَل",
+    "pronunciation": "jamal",
+    "index": 96
+  },
+  {
+    "english": "Camera",
+    "arabic": "كاميرا",
+    "pronunciation": "kaamiiraa",
+    "index": 97
+  },
+  {
+    "english": "Cancellation",
+    "arabic": "إِلغَاء",
+    "pronunciation": "ilghaa’",
+    "index": 98
+  },
+  {
+    "english": "Car",
+    "arabic": "سَيّارة",
+    "pronunciation": "sayyaara",
+    "index": 99
+  },
+  {
+    "english": "Carpet",
+    "arabic": "سِجّادة",
+    "pronunciation": "sijjaada",
+    "index": 100
+  },
+  {
+    "english": "Case / Own",
+    "arabic": "حَال",
+    "pronunciation": "Haal",
+    "index": 101
+  },
+  {
+    "english": "Cat",
+    "arabic": "بِسّ / قِطّ",
+    "pronunciation": "biss / qiTT",
+    "index": 102
+  },
+  {
+    "english": "Center",
+    "arabic": "مَرْكَز",
+    "pronunciation": "markaz",
+    "index": 103
+  },
+  {
+    "english": "Certainly",
+    "arabic": "أَكيد",
+    "pronunciation": "akiid",
+    "index": 104
+  },
+  {
+    "english": "Chair",
+    "arabic": "كُرْسي",
+    "pronunciation": "kursi",
+    "index": 105
+  },
+  {
+    "english": "Chance",
+    "arabic": "فُرْصة",
+    "pronunciation": "furSa",
+    "index": 106
+  },
+  {
+    "english": "Charity",
+    "arabic": "صَدَقَة",
+    "pronunciation": "Sadaqa",
+    "index": 107
+  },
+  {
+    "english": "Cheap",
+    "arabic": "رْخيص",
+    "pronunciation": "rkhiiS",
+    "index": 108
+  },
+  {
+    "english": "Cheese",
+    "arabic": "جِبْنة",
+    "pronunciation": "jibneh",
+    "index": 109
+  },
+  {
+    "english": "Chest",
+    "arabic": "صِدْر",
+    "pronunciation": "Sidr",
+    "index": 110
+  },
+  {
+    "english": "Chicken",
+    "arabic": "دَجاج",
+    "pronunciation": "dajaaj",
+    "index": 111
+  },
+  {
+    "english": "Child",
+    "arabic": "طِفِل",
+    "pronunciation": "Tifil",
+    "index": 112
+  },
+  {
+    "english": "Choice",
+    "arabic": "اِخْتِيار",
+    "pronunciation": "ikhtiyaar",
+    "index": 113
+  },
+  {
+    "english": "Circle",
+    "arabic": "دائِرة",
+    "pronunciation": "daa’ira",
+    "index": 114
+  },
+  {
+    "english": "Circumstance",
+    "arabic": "ظَرْف",
+    "pronunciation": "DHarf",
+    "index": 115
+  },
+  {
+    "english": "City",
+    "arabic": "مدينة",
+    "pronunciation": "medinah",
+    "index": 116
+  },
+  {
+    "english": "Class/ grade / Parking",
+    "arabic": "صَفّ",
+    "pronunciation": "Saff",
+    "index": 117
+  },
+  {
+    "english": "Clean",
+    "arabic": "نْظيف",
+    "pronunciation": "nDHiif",
+    "index": 118
+  },
+  {
+    "english": "Clear",
+    "arabic": "واضِح",
+    "pronunciation": "waaDiH",
+    "index": 119
+  },
+  {
+    "english": "Clever",
+    "arabic": "ذَكِي",
+    "pronunciation": "dhakiy",
+    "index": 120
+  },
+  {
+    "english": "Close/ near / Relative",
+    "arabic": "قَريب",
+    "pronunciation": "qariib",
+    "index": 121
+  },
+  {
+    "english": "Closet",
+    "arabic": "خَزانِة",
+    "pronunciation": "khazaaneh",
+    "index": 122
+  },
+  {
+    "english": "Cloud",
+    "arabic": "غَيمِة",
+    "pronunciation": "ghaymeh",
+    "index": 123
+  },
+  {
+    "english": "Coffee",
+    "arabic": "قَهْوِة",
+    "pronunciation": "qahwa",
+    "index": 124
+  },
+  {
+    "english": "Coincidence",
+    "arabic": "صِدْفِة",
+    "pronunciation": "Sidfeh",
+    "index": 125
+  },
+  {
+    "english": "Cold",
+    "arabic": "بارِد",
+    "pronunciation": "baarid",
+    "index": 126
+  },
+  {
+    "english": "Colleague",
+    "arabic": "زَمِيل",
+    "pronunciation": "zamiil",
+    "index": 127
+  },
+  {
+    "english": "Color",
+    "arabic": "لون",
+    "pronunciation": "loon",
+    "index": 128
+  },
+  {
+    "english": "Come",
+    "arabic": "إِجَا",
+    "pronunciation": "ijaa",
+    "index": 129
+  },
+  {
+    "english": "Comfortable",
+    "arabic": "مُرِيح",
+    "pronunciation": "muriiH",
+    "index": 130
+  },
+  {
+    "english": "Comment",
+    "arabic": "تَعْلِيْق",
+    "pronunciation": "ta3liiq",
+    "index": 131
+  },
+  {
+    "english": "Community",
+    "arabic": "مُجتَمَع",
+    "pronunciation": "mujtama3",
+    "index": 132
+  },
+  {
+    "english": "Company",
+    "arabic": "شِرْكِة",
+    "pronunciation": "shirkeh",
+    "index": 133
+  },
+  {
+    "english": "Comparison",
+    "arabic": "مُقارَنِة",
+    "pronunciation": "muqaaraneh",
+    "index": 134
+  },
+  {
+    "english": "Complaint",
+    "arabic": "شَكْوَة",
+    "pronunciation": "shakwa",
+    "index": 135
+  },
+  {
+    "english": "Complete (adj.)",
+    "arabic": "كامِل",
+    "pronunciation": "kaamil",
+    "index": 136
+  },
+  {
+    "english": "Compliment",
+    "arabic": "مُجامَلَة",
+    "pronunciation": "mujaamala",
+    "index": 137
+  },
+  {
+    "english": "Computer",
+    "arabic": "كامبْيُوتِر",
+    "pronunciation": "kaambyuutir",
+    "index": 138
+  },
+  {
+    "english": "Condition",
+    "arabic": "شَرْط",
+    "pronunciation": "sharT",
+    "index": 139
+  },
+  {
+    "english": "Continent",
+    "arabic": "قارَّة",
+    "pronunciation": "qaarra",
+    "index": 140
+  },
+  {
+    "english": "Contract",
+    "arabic": "عَقِد",
+    "pronunciation": "3aqid",
+    "index": 141
+  },
+  {
+    "english": "Control",
+    "arabic": "سَيْطَرَة",
+    "pronunciation": "sayTara",
+    "index": 142
+  },
+  {
+    "english": "Conversation",
+    "arabic": "حَدِيث",
+    "pronunciation": "Hadiith",
+    "index": 143
+  },
+  {
+    "english": "Copy",
+    "arabic": "نِسْخَة",
+    "pronunciation": "niskha",
+    "index": 144
+  },
+  {
+    "english": "Corner",
+    "arabic": "زاوْيِة",
+    "pronunciation": "zaawyeh",
+    "index": 145
+  },
+  {
+    "english": "Correct / Right/ correct",
+    "arabic": "صَحيح",
+    "pronunciation": "SaHiiH",
+    "index": 146
+  },
+  {
+    "english": "Cost",
+    "arabic": "تَكْليف",
+    "pronunciation": "takliif",
+    "index": 147
+  },
+  {
+    "english": "Couch",
+    "arabic": "صوفَة / كَنَباي",
+    "pronunciation": "Soofah / kanabaay",
+    "index": 148
+  },
+  {
+    "english": "Cough",
+    "arabic": "قَحَّة",
+    "pronunciation": "qaHHa",
+    "index": 149
+  },
+  {
+    "english": "Country",
+    "arabic": "بَلَد",
+    "pronunciation": "balad",
+    "index": 150
+  },
+  {
+    "english": "Court",
+    "arabic": "مَحْكَمِة",
+    "pronunciation": "maHkameh",
+    "index": 151
+  },
+  {
+    "english": "Cover",
+    "arabic": "غَطَا",
+    "pronunciation": "ghaTaa",
+    "index": 152
+  },
+  {
+    "english": "Cow",
+    "arabic": "بَقَرة",
+    "pronunciation": "baqara",
+    "index": 153
+  },
+  {
+    "english": "Crazy",
+    "arabic": "مَجْنون",
+    "pronunciation": "majnuun",
+    "index": 154
+  },
+  {
+    "english": "Cucumber",
+    "arabic": "خْيار",
+    "pronunciation": "khyaar",
+    "index": 155
+  },
+  {
+    "english": "Cup",
+    "arabic": "كَأس",
+    "pronunciation": "ka’s",
+    "index": 156
+  },
+  {
+    "english": "Cure",
+    "arabic": "عِلاج",
+    "pronunciation": "3ilaaj",
+    "index": 157
+  },
+  {
+    "english": "Customer",
+    "arabic": "زْبُون",
+    "pronunciation": "zbuun",
+    "index": 158
+  },
+  {
+    "english": "Dance",
+    "arabic": "رَقْصَة",
+    "pronunciation": "raqSa",
+    "index": 159
+  },
+  {
+    "english": "Danger",
+    "arabic": "خَطَر",
+    "pronunciation": "khaTar",
+    "index": 160
+  },
+  {
+    "english": "Daughter / Girl",
+    "arabic": "بِنْت",
+    "pronunciation": "bint",
+    "index": 161
+  },
+  {
+    "english": "Day",
+    "arabic": "يوم",
+    "pronunciation": "yoom",
+    "index": 162
+  },
+  {
+    "english": "Death",
+    "arabic": "موت",
+    "pronunciation": "moot",
+    "index": 163
+  },
+  {
+    "english": "Decision",
+    "arabic": "قَرار",
+    "pronunciation": "qaraar",
+    "index": 164
+  },
+  {
+    "english": "Degree/ diploma",
+    "arabic": "شَهادِة",
+    "pronunciation": "shahaadeh",
+    "index": 165
+  },
+  {
+    "english": "Delicious",
+    "arabic": "طَيِّب",
+    "pronunciation": "Tayyib",
+    "index": 166
+  },
+  {
+    "english": "Delivery",
+    "arabic": "تَسْلِيم",
+    "pronunciation": "tasliim",
+    "index": 167
+  },
+  {
+    "english": "Dentist",
+    "arabic": "دُكْتور سْنان",
+    "pronunciation": "doktoor snaan",
+    "index": 168
+  },
+  {
+    "english": "Department",
+    "arabic": "قِسِم",
+    "pronunciation": "qisim",
+    "index": 169
+  },
+  {
+    "english": "Desert",
+    "arabic": "صَحْرَا",
+    "pronunciation": "SaHraa",
+    "index": 170
+  },
+  {
+    "english": "Detail",
+    "arabic": "تَفْصِيل",
+    "pronunciation": "tafSiil",
+    "index": 171
+  },
+  {
+    "english": "Dictionary",
+    "arabic": "قاموس",
+    "pronunciation": "qaamuus",
+    "index": 172
+  },
+  {
+    "english": "Different / Different from",
+    "arabic": "مُختَلِف / غَير",
+    "pronunciation": "mukhtalif / ghayr",
+    "index": 173
+  },
+  {
+    "english": "Difficult",
+    "arabic": "صَعِب",
+    "pronunciation": "Sa3ib",
+    "index": 174
+  },
+  {
+    "english": "Dinner",
+    "arabic": "عَشَا",
+    "pronunciation": "3ashaa",
+    "index": 175
+  },
+  {
+    "english": "Direction / Side",
+    "arabic": "جِهَة",
+    "pronunciation": "jiha",
+    "index": 176
+  },
+  {
+    "english": "Dirty",
+    "arabic": "وِسِخ",
+    "pronunciation": "wisikh",
+    "index": 177
+  },
+  {
+    "english": "Disaster",
+    "arabic": "مُصِيبِة",
+    "pronunciation": "muSiiba",
+    "index": 178
+  },
+  {
+    "english": "Discount",
+    "arabic": "خَصِم",
+    "pronunciation": "khaSim",
+    "index": 179
+  },
+  {
+    "english": "Discussion",
+    "arabic": "نِقَاش",
+    "pronunciation": "niqaash",
+    "index": 180
+  },
+  {
+    "english": "Disgusting",
+    "arabic": "مُقْرِف",
+    "pronunciation": "muqrif",
+    "index": 181
+  },
+  {
+    "english": "Divorce",
+    "arabic": "طَلاق",
+    "pronunciation": "Talaaq",
+    "index": 182
+  },
+  {
+    "english": "Doctor",
+    "arabic": "دُكْتَور / طَبِيْب / حَكِيْم",
+    "pronunciation": "doktoor / Tabiib / Hakiim",
+    "index": 183
+  },
+  {
+    "english": "Dog",
+    "arabic": "كَلْب",
+    "pronunciation": "kalb",
+    "index": 184
+  },
+  {
+    "english": "Donkey",
+    "arabic": "حْمار",
+    "pronunciation": "Hmaar",
+    "index": 185
+  },
+  {
+    "english": "Door",
+    "arabic": "باب",
+    "pronunciation": "baab",
+    "index": 186
+  },
+  {
+    "english": "Doubt / To doubt",
+    "arabic": "شَكّ",
+    "pronunciation": "shakk",
+    "index": 187
+  },
+  {
+    "english": "Dough",
+    "arabic": "عَجِينِة",
+    "pronunciation": "3ajiineh",
+    "index": 188
+  },
+  {
+    "english": "Drawer",
+    "arabic": "جَرَّار",
+    "pronunciation": "jarraar",
+    "index": 189
+  },
+  {
+    "english": "Dream / To dream",
+    "arabic": "حِلِم",
+    "pronunciation": "Hilim",
+    "index": 190
+  },
+  {
+    "english": "Dress",
+    "arabic": "فُسْتان",
+    "pronunciation": "fustaan",
+    "index": 191
+  },
+  {
+    "english": "Duck",
+    "arabic": "بَطَّة",
+    "pronunciation": "baTTa",
+    "index": 192
+  },
+  {
+    "english": "During / Through",
+    "arabic": "خِلال",
+    "pronunciation": "khilaal",
+    "index": 193
+  },
+  {
+    "english": "Dust",
+    "arabic": "غَبَرَة",
+    "pronunciation": "ghabara",
+    "index": 194
+  },
+  {
+    "english": "Early",
+    "arabic": "بَكّير",
+    "pronunciation": "bakkiir",
+    "index": 195
+  },
+  {
+    "english": "Earth",
+    "arabic": "أَرْض",
+    "pronunciation": "arD",
+    "index": 196
+  },
+  {
+    "english": "East",
+    "arabic": "شَرْق",
+    "pronunciation": "sharq",
+    "index": 197
+  },
+  {
+    "english": "Easy",
+    "arabic": "سَهِل",
+    "pronunciation": "sahil",
+    "index": 198
+  },
+  {
+    "english": "Effort",
+    "arabic": "جَهِد",
+    "pronunciation": "jahid",
+    "index": 199
+  },
+  {
+    "english": "Eight",
+    "arabic": "تَمَانيِة",
+    "pronunciation": "tamaaniyeh",
+    "index": 200
+  },
+  {
+    "english": "Electrician",
+    "arabic": "كَهْرَبائِي",
+    "pronunciation": "kahrabaa’iy",
+    "index": 201
+  },
+  {
+    "english": "Elephant",
+    "arabic": "فيل",
+    "pronunciation": "fiil",
+    "index": 202
+  },
+  {
+    "english": "Elevator",
+    "arabic": "أَسِنسير",
+    "pronunciation": "asinsiir",
+    "index": 203
+  },
+  {
+    "english": "Eleven",
+    "arabic": "إِحداعِش",
+    "pronunciation": "iHdaa3ish",
+    "index": 204
+  },
+  {
+    "english": "Embassy",
+    "arabic": "سَفارَة",
+    "pronunciation": "safaara",
+    "index": 205
+  },
+  {
+    "english": "Emotion",
+    "arabic": "عاطفِة",
+    "pronunciation": "3aaTfeh",
+    "index": 206
+  },
+  {
+    "english": "Empty",
+    "arabic": "فَاضي",
+    "pronunciation": "faaDiy",
+    "index": 207
+  },
+  {
+    "english": "End",
+    "arabic": "نِهايِة",
+    "pronunciation": "nihaayeh",
+    "index": 208
+  },
+  {
+    "english": "Energy",
+    "arabic": "طاقَة",
+    "pronunciation": "Taaqa",
+    "index": 209
+  },
+  {
+    "english": "Engine",
+    "arabic": "ماكينَة",
+    "pronunciation": "maakiina",
+    "index": 210
+  },
+  {
+    "english": "Engineer",
+    "arabic": "مُهَنْدِس",
+    "pronunciation": "muhandis",
+    "index": 211
+  },
+  {
+    "english": "Enough",
+    "arabic": "كافي",
+    "pronunciation": "kaafiy",
+    "index": 212
+  },
+  {
+    "english": "Entrance",
+    "arabic": "مَدخَل",
+    "pronunciation": "madkhal",
+    "index": 213
+  },
+  {
+    "english": "Especially",
+    "arabic": "خُصوصاً",
+    "pronunciation": "khuSuusan",
+    "index": 214
+  },
+  {
+    "english": "Even",
+    "arabic": "حَتّى",
+    "pronunciation": "Hattaa",
+    "index": 215
+  },
+  {
+    "english": "Evening",
+    "arabic": "مَسا",
+    "pronunciation": "masaa",
+    "index": 216
+  },
+  {
+    "english": "Everything",
+    "arabic": "كُلّ إشيّ",
+    "pronunciation": "kull ishiy",
+    "index": 217
+  },
+  {
+    "english": "Evidence",
+    "arabic": "دَليل",
+    "pronunciation": "daliil",
+    "index": 218
+  },
+  {
+    "english": "Exactly",
+    "arabic": "بالضَّبْط",
+    "pronunciation": "biDDabT/ bizzabT",
+    "index": 219
+  },
+  {
+    "english": "Example",
+    "arabic": "مَثَل",
+    "pronunciation": "mathal",
+    "index": 220
+  },
+  {
+    "english": "Excuse",
+    "arabic": "حِجِّة / عُذُر",
+    "pronunciation": "Hijjeh / 3udhur",
+    "index": 221
+  },
+  {
+    "english": "Experience",
+    "arabic": "تَجْرُبَة / خِبْرَة",
+    "pronunciation": "tajruba / khibra",
+    "index": 222
+  },
+  {
+    "english": "Eye",
+    "arabic": "عَيْن",
+    "pronunciation": "3ain",
+    "index": 223
+  },
+  {
+    "english": "Face",
+    "arabic": "وِجْه",
+    "pronunciation": "wijh",
+    "index": 224
+  },
+  {
+    "english": "Family",
+    "arabic": "أَهِل / عَيْلِة",
+    "pronunciation": "ahil / 3aileh",
+    "index": 225
+  },
+  {
+    "english": "Far",
+    "arabic": "بْعيد",
+    "pronunciation": "b3iid",
+    "index": 226
+  },
+  {
+    "english": "Fast (adv.) / Fast (adj.)",
+    "arabic": "بْسُرْعَة / سَريع",
+    "pronunciation": "bsur3a / sarii3",
+    "index": 227
+  },
+  {
+    "english": "Fat",
+    "arabic": "ناصِح",
+    "pronunciation": "naaSiH",
+    "index": 228
+  },
+  {
+    "english": "Father",
+    "arabic": "أب",
+    "pronunciation": "ab",
+    "index": 229
+  },
+  {
+    "english": "Fear",
+    "arabic": "خوف",
+    "pronunciation": "khoof",
+    "index": 230
+  },
+  {
+    "english": "Fever",
+    "arabic": "حَرارَة",
+    "pronunciation": "Haraara",
+    "index": 231
+  },
+  {
+    "english": "Few",
+    "arabic": "قَليل",
+    "pronunciation": "qaliil",
+    "index": 232
+  },
+  {
+    "english": "Fiancé",
+    "arabic": "خَطيب",
+    "pronunciation": "khaTiib",
+    "index": 233
+  },
+  {
+    "english": "Fiancée",
+    "arabic": "خَطيبة",
+    "pronunciation": "khaTiiba",
+    "index": 234
+  },
+  {
+    "english": "Fight",
+    "arabic": "مْقاتَلِة",
+    "pronunciation": "mqaataleh",
+    "index": 235
+  },
+  {
+    "english": "Finger",
+    "arabic": "إِصْبَع",
+    "pronunciation": "iSba3",
+    "index": 236
+  },
+  {
+    "english": "Fire",
+    "arabic": "نار",
+    "pronunciation": "naar",
+    "index": 237
+  },
+  {
+    "english": "First",
+    "arabic": "أَوَّل",
+    "pronunciation": "awwal",
+    "index": 238
+  },
+  {
+    "english": "Fish",
+    "arabic": "سَمَك",
+    "pronunciation": "samak",
+    "index": 239
+  },
+  {
+    "english": "Five",
+    "arabic": "خَمْسِة",
+    "pronunciation": "khamseh",
+    "index": 240
+  },
+  {
+    "english": "Flat",
+    "arabic": "شَقَّة",
+    "pronunciation": "shaqqa",
+    "index": 241
+  },
+  {
+    "english": "Flood",
+    "arabic": "فَيَضان",
+    "pronunciation": "fayaDaan",
+    "index": 242
+  },
+  {
+    "english": "Flour",
+    "arabic": "طْحين",
+    "pronunciation": "THiin",
+    "index": 243
+  },
+  {
+    "english": "Flower",
+    "arabic": "زَهْرَة / وَرْد",
+    "pronunciation": "zahra / ward",
+    "index": 244
+  },
+  {
+    "english": "Food",
+    "arabic": "أَكِل",
+    "pronunciation": "akil",
+    "index": 245
+  },
+  {
+    "english": "Football",
+    "arabic": "كُرِة القَدَم",
+    "pronunciation": "kuret al-qadam",
+    "index": 246
+  },
+  {
+    "english": "For",
+    "arabic": "لَ / إلى",
+    "pronunciation": "la / ilaa",
+    "index": 247
+  },
+  {
+    "english": "Foreigner",
+    "arabic": "أَجنَبي",
+    "pronunciation": "ajnabiy",
+    "index": 248
+  },
+  {
+    "english": "Forest",
+    "arabic": "غابِة",
+    "pronunciation": "ghaabeh",
+    "index": 249
+  },
+  {
+    "english": "Fork",
+    "arabic": "شُوكِة",
+    "pronunciation": "shookeh",
+    "index": 250
+  },
+  {
+    "english": "Four",
+    "arabic": "أَرْبَعة",
+    "pronunciation": "arba3",
+    "index": 251
+  },
+  {
+    "english": "Free",
+    "arabic": "حُرّ",
+    "pronunciation": "Horr",
+    "index": 252
+  },
+  {
+    "english": "Fridge",
+    "arabic": "ثَلّاجِة",
+    "pronunciation": "thallaajeh",
+    "index": 253
+  },
+  {
+    "english": "Friend",
+    "arabic": "صاحِب / رْفيق / صَديق",
+    "pronunciation": "SaaHib / rfiiq / Sadiiq",
+    "index": 254
+  },
+  {
+    "english": "From / Since",
+    "arabic": "مِن",
+    "pronunciation": "min",
+    "index": 255
+  },
+  {
+    "english": "Fruits",
+    "arabic": "فَواكِه",
+    "pronunciation": "fawaakeh",
+    "index": 256
+  },
+  {
+    "english": "Full",
+    "arabic": "مَلْيان",
+    "pronunciation": "malyaan",
+    "index": 257
+  },
+  {
+    "english": "Funny",
+    "arabic": "مُضْحِك",
+    "pronunciation": "muDHik",
+    "index": 258
+  },
+  {
+    "english": "Future",
+    "arabic": "مُسْتَقْبَل",
+    "pronunciation": "mustaqbal",
+    "index": 259
+  },
+  {
+    "english": "Game/ toy",
+    "arabic": "لْعِبِة",
+    "pronunciation": "l3ibeh",
+    "index": 260
+  },
+  {
+    "english": "Garage",
+    "arabic": "كَراج",
+    "pronunciation": "karaaj",
+    "index": 261
+  },
+  {
+    "english": "Garlic",
+    "arabic": "ثوم",
+    "pronunciation": "thoom",
+    "index": 262
+  },
+  {
+    "english": "Gate",
+    "arabic": "بَوّابِة",
+    "pronunciation": "bawwaabeh",
+    "index": 263
+  },
+  {
+    "english": "Generally",
+    "arabic": "عُموماً",
+    "pronunciation": "3umuuman",
+    "index": 264
+  },
+  {
+    "english": "Generous",
+    "arabic": "كَريم",
+    "pronunciation": "kariim",
+    "index": 265
+  },
+  {
+    "english": "Gift",
+    "arabic": "هَدِيّة",
+    "pronunciation": "hadiyyeh",
+    "index": 266
+  },
+  {
+    "english": "Glass",
+    "arabic": "قَزَاز",
+    "pronunciation": "qazaaz",
+    "index": 267
+  },
+  {
+    "english": "Good",
+    "arabic": "مْنيح",
+    "pronunciation": "mniiH",
+    "index": 268
+  },
+  {
+    "english": "Government",
+    "arabic": "حُكومِة",
+    "pronunciation": "Hukuumeh",
+    "index": 269
+  },
+  {
+    "english": "Great",
+    "arabic": "عَظيم",
+    "pronunciation": "3aDHiim",
+    "index": 270
+  },
+  {
+    "english": "Green",
+    "arabic": "أَخْضَر",
+    "pronunciation": "akhDar",
+    "index": 271
+  },
+  {
+    "english": "Groom",
+    "arabic": "عَريس",
+    "pronunciation": "3ariis",
+    "index": 272
+  },
+  {
+    "english": "Guest",
+    "arabic": "ضَيْف",
+    "pronunciation": "Dayf",
+    "index": 273
+  },
+  {
+    "english": "Guilt",
+    "arabic": "ذَنْب",
+    "pronunciation": "dhanb",
+    "index": 274
+  },
+  {
+    "english": "Gulf",
+    "arabic": "خَليج",
+    "pronunciation": "khaliij",
+    "index": 275
+  },
+  {
+    "english": "Guy",
+    "arabic": "شَبّ",
+    "pronunciation": "shabb",
+    "index": 276
+  },
+  {
+    "english": "Hair",
+    "arabic": "شَعْر",
+    "pronunciation": "sha3r",
+    "index": 277
+  },
+  {
+    "english": "Hand",
+    "arabic": "إِيد",
+    "pronunciation": "iid",
+    "index": 278
+  },
+  {
+    "english": "Happy",
+    "arabic": "مَبْسوط",
+    "pronunciation": "mabsooT",
+    "index": 279
+  },
+  {
+    "english": "Hat",
+    "arabic": "قْبَّعة",
+    "pronunciation": "qbba3a",
+    "index": 280
+  },
+  {
+    "english": "He",
+    "arabic": "هُو",
+    "pronunciation": "huweh",
+    "index": 281
+  },
+  {
+    "english": "Head",
+    "arabic": "راس",
+    "pronunciation": "raas",
+    "index": 282
+  },
+  {
+    "english": "Headache / Migraine",
+    "arabic": "صُداع",
+    "pronunciation": "Sudaa3",
+    "index": 283
+  },
+  {
+    "english": "Health",
+    "arabic": "صِحَّة",
+    "pronunciation": "SiHHa",
+    "index": 284
+  },
+  {
+    "english": "Heart",
+    "arabic": "قَلْب",
+    "pronunciation": "qalb",
+    "index": 285
+  },
+  {
+    "english": "Heavy",
+    "arabic": "ثْقيل",
+    "pronunciation": "thqiil",
+    "index": 286
+  },
+  {
+    "english": "Help",
+    "arabic": "مُسَاعَدِة",
+    "pronunciation": "musaa3adeh",
+    "index": 287
+  },
+  {
+    "english": "Herbs",
+    "arabic": "أعْشاب",
+    "pronunciation": "a3shaab",
+    "index": 288
+  },
+  {
+    "english": "Here",
+    "arabic": "هون",
+    "pronunciation": "hoon",
+    "index": 289
+  },
+  {
+    "english": "High",
+    "arabic": "عالي",
+    "pronunciation": "3aaliy",
+    "index": 290
+  },
+  {
+    "english": "History",
+    "arabic": "تاريخ",
+    "pronunciation": "taariikh",
+    "index": 291
+  },
+  {
+    "english": "Hobby",
+    "arabic": "هِوايِة",
+    "pronunciation": "hiwaayeh",
+    "index": 292
+  },
+  {
+    "english": "Home",
+    "arabic": "بَيْت",
+    "pronunciation": "beyt",
+    "index": 293
+  },
+  {
+    "english": "Homeland",
+    "arabic": "وَطَن",
+    "pronunciation": "waTan",
+    "index": 294
+  },
+  {
+    "english": "Honest",
+    "arabic": "صَريح",
+    "pronunciation": "SariiH",
+    "index": 295
+  },
+  {
+    "english": "Honey",
+    "arabic": "عَسَل",
+    "pronunciation": "3asal",
+    "index": 296
+  },
+  {
+    "english": "Hope",
+    "arabic": "أَمَل",
+    "pronunciation": "amal",
+    "index": 297
+  },
+  {
+    "english": "Horse",
+    "arabic": "حْصان",
+    "pronunciation": "HSaan",
+    "index": 298
+  },
+  {
+    "english": "Hospital",
+    "arabic": "مُسْتَشْفَى",
+    "pronunciation": "mustashfaa",
+    "index": 299
+  },
+  {
+    "english": "Hot",
+    "arabic": "حَارّ / سَاخِن",
+    "pronunciation": "Harr / Saakhin",
+    "index": 300
+  },
+  {
+    "english": "Hotel",
+    "arabic": "فُنْدُق",
+    "pronunciation": "funduq",
+    "index": 301
+  },
+  {
+    "english": "Hour",
+    "arabic": "ساعَة",
+    "pronunciation": "saa3a",
+    "index": 302
+  },
+  {
+    "english": "How",
+    "arabic": "كيف",
+    "pronunciation": "keef",
+    "index": 303
+  },
+  {
+    "english": "Hundred",
+    "arabic": "مِيِّة",
+    "pronunciation": "miyyeh",
+    "index": 304
+  },
+  {
+    "english": "Hungry",
+    "arabic": "جُوعَان",
+    "pronunciation": "joo3aan",
+    "index": 305
+  },
+  {
+    "english": "Hurricane",
+    "arabic": "اِعْصار",
+    "pronunciation": "i3Saar",
+    "index": 306
+  },
+  {
+    "english": "Husband",
+    "arabic": "زوج",
+    "pronunciation": "zooj",
+    "index": 307
+  },
+  {
+    "english": "Idea",
+    "arabic": "فِكْرَة",
+    "pronunciation": "fikrah",
+    "index": 308
+  },
+  {
+    "english": "If",
+    "arabic": "إذا",
+    "pronunciation": "idhaa",
+    "index": 309
+  },
+  {
+    "english": "Important",
+    "arabic": "مُهِمّ",
+    "pronunciation": "muhimm",
+    "index": 310
+  },
+  {
+    "english": "Impossible",
+    "arabic": "مُسْتَحيل",
+    "pronunciation": "mustaHiil",
+    "index": 311
+  },
+  {
+    "english": "In",
+    "arabic": "في",
+    "pronunciation": "fii",
+    "index": 312
+  },
+  {
+    "english": "In front of",
+    "arabic": "قُدَّام",
+    "pronunciation": "qoddaam",
+    "index": 313
+  },
+  {
+    "english": "Inflammation",
+    "arabic": "اِلْتِهاب",
+    "pronunciation": "iltihaab",
+    "index": 314
+  },
+  {
+    "english": "Information",
+    "arabic": "مَعْلومِة",
+    "pronunciation": "ma3luumeh",
+    "index": 315
+  },
+  {
+    "english": "Injection",
+    "arabic": "إبْرِة",
+    "pronunciation": "ibrah",
+    "index": 316
+  },
+  {
+    "english": "Injury",
+    "arabic": "إصابِة",
+    "pronunciation": "iSaaba",
+    "index": 317
+  },
+  {
+    "english": "Inside",
+    "arabic": "جُوّا",
+    "pronunciation": "juwwaa",
+    "index": 318
+  },
+  {
+    "english": "Insurance",
+    "arabic": "تَأمين",
+    "pronunciation": "ta’miin",
+    "index": 319
+  },
+  {
+    "english": "International",
+    "arabic": "دُوَلي",
+    "pronunciation": "duwaliy",
+    "index": 320
+  },
+  {
+    "english": "Investment",
+    "arabic": "اِسْتِثْمار",
+    "pronunciation": "istithmaar",
+    "index": 321
+  },
+  {
+    "english": "Island",
+    "arabic": "جَزيرَة",
+    "pronunciation": "jazeera",
+    "index": 322
+  },
+  {
+    "english": "Jacket",
+    "arabic": "جاكيت",
+    "pronunciation": "jaakeet",
+    "index": 323
+  },
+  {
+    "english": "Jealousy",
+    "arabic": "غيرِة",
+    "pronunciation": "ghiireh",
+    "index": 324
+  },
+  {
+    "english": "Jewelry",
+    "arabic": "مُجَوْهَرات",
+    "pronunciation": "mujawharaat",
+    "index": 325
+  },
+  {
+    "english": "Job / Work",
+    "arabic": "شُغُل",
+    "pronunciation": "shughul",
+    "index": 326
+  },
+  {
+    "english": "Joke",
+    "arabic": "نُكْتِة",
+    "pronunciation": "nukteh",
+    "index": 327
+  },
+  {
+    "english": "Key",
+    "arabic": "مُفْتاح",
+    "pronunciation": "muftaaH",
+    "index": 328
+  },
+  {
+    "english": "Kind/ type",
+    "arabic": "نوع",
+    "pronunciation": "noo3",
+    "index": 329
+  },
+  {
+    "english": "King",
+    "arabic": "مَلِك",
+    "pronunciation": "malik",
+    "index": 330
+  },
+  {
+    "english": "Kingdom",
+    "arabic": "مَمْلَكِة",
+    "pronunciation": "mamlakeh",
+    "index": 331
+  },
+  {
+    "english": "Kiss",
+    "arabic": "بوسِة",
+    "pronunciation": "booseh",
+    "index": 332
+  },
+  {
+    "english": "Kitchen",
+    "arabic": "مَطْبَخ",
+    "pronunciation": "maTbakh",
+    "index": 333
+  },
+  {
+    "english": "Lake",
+    "arabic": "بُحَيْرَة",
+    "pronunciation": "buHayra",
+    "index": 334
+  },
+  {
+    "english": "Lamb",
+    "arabic": "خَروف",
+    "pronunciation": "kharuuf",
+    "index": 335
+  },
+  {
+    "english": "Last",
+    "arabic": "آخِر",
+    "pronunciation": "aakhir",
+    "index": 336
+  },
+  {
+    "english": "Late",
+    "arabic": "مِتْأخِّر",
+    "pronunciation": "mit’akhkhir",
+    "index": 337
+  },
+  {
+    "english": "Later",
+    "arabic": "بَعْدين",
+    "pronunciation": "ba3diin",
+    "index": 338
+  },
+  {
+    "english": "Law",
+    "arabic": "قانون",
+    "pronunciation": "qaanuun",
+    "index": 339
+  },
+  {
+    "english": "Lawyer",
+    "arabic": "مُحامي",
+    "pronunciation": "muHaamiy",
+    "index": 340
+  },
+  {
+    "english": "Lazy",
+    "arabic": "كَسول",
+    "pronunciation": "kasuul",
+    "index": 341
+  },
+  {
+    "english": "Leader",
+    "arabic": "زَعيم",
+    "pronunciation": "za3iim",
+    "index": 342
+  },
+  {
+    "english": "Left",
+    "arabic": "يَسار",
+    "pronunciation": "yasaar",
+    "index": 343
+  },
+  {
+    "english": "Leg",
+    "arabic": "رِجْل",
+    "pronunciation": "rijl",
+    "index": 344
+  },
+  {
+    "english": "Length",
+    "arabic": "طول",
+    "pronunciation": "Tuul",
+    "index": 345
+  },
+  {
+    "english": "Lesson",
+    "arabic": "دَرْس",
+    "pronunciation": "dars",
+    "index": 346
+  },
+  {
+    "english": "Letter/ message",
+    "arabic": "رِسالِة",
+    "pronunciation": "risaaleh",
+    "index": 347
+  },
+  {
+    "english": "Level",
+    "arabic": "مُسْتَوى",
+    "pronunciation": "mustawaa",
+    "index": 348
+  },
+  {
+    "english": "Level/ floor",
+    "arabic": "طَابِق",
+    "pronunciation": "Taabiq",
+    "index": 349
+  },
+  {
+    "english": "License",
+    "arabic": "رُخْصة",
+    "pronunciation": "rukhSa",
+    "index": 350
+  },
+  {
+    "english": "Lie",
+    "arabic": "كِذْبِة",
+    "pronunciation": "kidhbeh",
+    "index": 351
+  },
+  {
+    "english": "Life",
+    "arabic": "حَياة",
+    "pronunciation": "Hayaa",
+    "index": 352
+  },
+  {
+    "english": "Light",
+    "arabic": "ضَوّ",
+    "pronunciation": "Daww",
+    "index": 353
+  },
+  {
+    "english": "Light (adj.)",
+    "arabic": "خَفيف",
+    "pronunciation": "khafiif",
+    "index": 354
+  },
+  {
+    "english": "Like/ as",
+    "arabic": "زَيّ",
+    "pronunciation": "zayy",
+    "index": 355
+  },
+  {
+    "english": "Line",
+    "arabic": "خَطّ",
+    "pronunciation": "khaTT",
+    "index": 356
+  },
+  {
+    "english": "Lion",
+    "arabic": "أَسَد",
+    "pronunciation": "asad",
+    "index": 357
+  },
+  {
+    "english": "Lips",
+    "arabic": "شَفايِف",
+    "pronunciation": "shafaayef",
+    "index": 358
+  },
+  {
+    "english": "List",
+    "arabic": "قائمِة",
+    "pronunciation": "qaa’imeh",
+    "index": 359
+  },
+  {
+    "english": "Little",
+    "arabic": "قَليل / شْوَيّ",
+    "pronunciation": "qaliil / shwayy",
+    "index": 360
+  },
+  {
+    "english": "Little / Small / Young",
+    "arabic": "صْغير",
+    "pronunciation": "Sghiir",
+    "index": 361
+  },
+  {
+    "english": "Local",
+    "arabic": "مَحَلّي",
+    "pronunciation": "maHalliy",
+    "index": 362
+  },
+  {
+    "english": "Long/ tall",
+    "arabic": "طَويل",
+    "pronunciation": "Tawiil",
+    "index": 363
+  },
+  {
+    "english": "Look",
+    "arabic": "نَظْرَة",
+    "pronunciation": "naTHrah",
+    "index": 364
+  },
+  {
+    "english": "Love",
+    "arabic": "حُبّ",
+    "pronunciation": "Hubb",
+    "index": 365
+  },
+  {
+    "english": "Low",
+    "arabic": "واطي",
+    "pronunciation": "waaTiy",
+    "index": 366
+  },
+  {
+    "english": "Make",
+    "arabic": "عِمِل",
+    "pronunciation": "3imil",
+    "index": 367
+  },
+  {
+    "english": "Make/ do",
+    "arabic": "سَوَّى",
+    "pronunciation": "sawwaa",
+    "index": 368
+  },
+  {
+    "english": "Mall",
+    "arabic": "مول",
+    "pronunciation": "mool",
+    "index": 369
+  },
+  {
+    "english": "Man",
+    "arabic": "رَجُل / زَلَمِة",
+    "pronunciation": "rajul / zalameh",
+    "index": 370
+  },
+  {
+    "english": "Manager",
+    "arabic": "مُدير",
+    "pronunciation": "mudiir",
+    "index": 371
+  },
+  {
+    "english": "Map",
+    "arabic": "خَريطة",
+    "pronunciation": "khariiTa",
+    "index": 372
+  },
+  {
+    "english": "Market",
+    "arabic": "سوق",
+    "pronunciation": "suuq",
+    "index": 373
+  },
+  {
+    "english": "Marriage",
+    "arabic": "زَواج",
+    "pronunciation": "zawaaj",
+    "index": 374
+  },
+  {
+    "english": "Married",
+    "arabic": "مِتْزَوّج",
+    "pronunciation": "mitzawwej",
+    "index": 375
+  },
+  {
+    "english": "Mask",
+    "arabic": "كَمّامِة",
+    "pronunciation": "kammaameh",
+    "index": 376
+  },
+  {
+    "english": "Maybe",
+    "arabic": "يِمْكِن",
+    "pronunciation": "yimkin",
+    "index": 377
+  },
+  {
+    "english": "Me",
+    "arabic": "أنا",
+    "pronunciation": "ana",
+    "index": 378
+  },
+  {
+    "english": "Mean",
+    "arabic": "لَئيم",
+    "pronunciation": "la’iim",
+    "index": 379
+  },
+  {
+    "english": "Meat",
+    "arabic": "لَحْمِة",
+    "pronunciation": "lahmeh",
+    "index": 380
+  },
+  {
+    "english": "Medicine",
+    "arabic": "دَوا",
+    "pronunciation": "dawaa",
+    "index": 381
+  },
+  {
+    "english": "Milk",
+    "arabic": "حَليب",
+    "pronunciation": "Haliib",
+    "index": 382
+  },
+  {
+    "english": "Million",
+    "arabic": "مِلْيون",
+    "pronunciation": "milyoon",
+    "index": 383
+  },
+  {
+    "english": "Mind",
+    "arabic": "عَقْل",
+    "pronunciation": "3aql",
+    "index": 384
+  },
+  {
+    "english": "Mint",
+    "arabic": "نَعْنَع",
+    "pronunciation": "na3na3",
+    "index": 385
+  },
+  {
+    "english": "Mirror",
+    "arabic": "مْراي",
+    "pronunciation": "mraay",
+    "index": 386
+  },
+  {
+    "english": "Mistake",
+    "arabic": "غَلَطَة",
+    "pronunciation": "ghalTa",
+    "index": 387
+  },
+  {
+    "english": "Moment",
+    "arabic": "لَحْظَة",
+    "pronunciation": "laHDha",
+    "index": 388
+  },
+  {
+    "english": "Money",
+    "arabic": "مَصاري",
+    "pronunciation": "maSaari",
+    "index": 389
+  },
+  {
+    "english": "Month",
+    "arabic": "شَهْر",
+    "pronunciation": "shahr",
+    "index": 390
+  },
+  {
+    "english": "Moon",
+    "arabic": "قَمَر",
+    "pronunciation": "qamar",
+    "index": 391
+  },
+  {
+    "english": "More",
+    "arabic": "أكْتَر",
+    "pronunciation": "aktar",
+    "index": 392
+  },
+  {
+    "english": "Morning",
+    "arabic": "صُبِح",
+    "pronunciation": "SubiH",
+    "index": 393
+  },
+  {
+    "english": "Mosque",
+    "arabic": "مَسْجِد",
+    "pronunciation": "masjid",
+    "index": 394
+  },
+  {
+    "english": "Mother",
+    "arabic": "أُمّ",
+    "pronunciation": "umm",
+    "index": 395
+  },
+  {
+    "english": "Mountain",
+    "arabic": "جَبَل",
+    "pronunciation": "jabal",
+    "index": 396
+  },
+  {
+    "english": "Mouse",
+    "arabic": "فار",
+    "pronunciation": "faar",
+    "index": 397
+  },
+  {
+    "english": "Mouth",
+    "arabic": "تِمّ",
+    "pronunciation": "timm",
+    "index": 398
+  },
+  {
+    "english": "Move",
+    "arabic": "حَرَكِة",
+    "pronunciation": "Harakeh",
+    "index": 399
+  },
+  {
+    "english": "Movie",
+    "arabic": "فِلِم",
+    "pronunciation": "filim",
+    "index": 400
+  },
+  {
+    "english": "Museum",
+    "arabic": "مَتْحَف",
+    "pronunciation": "matHaf",
+    "index": 401
+  },
+  {
+    "english": "Mushrooms",
+    "arabic": "فِطْر",
+    "pronunciation": "fiTr",
+    "index": 402
+  },
+  {
+    "english": "Music",
+    "arabic": "موسيقى",
+    "pronunciation": "muusiiqaa",
+    "index": 403
+  },
+  {
+    "english": "Name",
+    "arabic": "اِسْم",
+    "pronunciation": "ism",
+    "index": 404
+  },
+  {
+    "english": "Nationality",
+    "arabic": "جِنْسيّة",
+    "pronunciation": "jinsiyyeh",
+    "index": 405
+  },
+  {
+    "english": "Nature",
+    "arabic": "طَبيعة",
+    "pronunciation": "Tabii3a",
+    "index": 406
+  },
+  {
+    "english": "Near",
+    "arabic": "جَنْب",
+    "pronunciation": "janb",
+    "index": 407
+  },
+  {
+    "english": "Neck",
+    "arabic": "رَقَبِة",
+    "pronunciation": "raqabeh",
+    "index": 408
+  },
+  {
+    "english": "Need",
+    "arabic": "حاجَة",
+    "pronunciation": "Haaja",
+    "index": 409
+  },
+  {
+    "english": "Negotiation",
+    "arabic": "مُفاوَضَة",
+    "pronunciation": "mufaawaDa",
+    "index": 410
+  },
+  {
+    "english": "Neighbor",
+    "arabic": "جَار",
+    "pronunciation": "jaar",
+    "index": 411
+  },
+  {
+    "english": "Never",
+    "arabic": "أبَداً",
+    "pronunciation": "abadan",
+    "index": 412
+  },
+  {
+    "english": "New",
+    "arabic": "جْديد",
+    "pronunciation": "jdiid",
+    "index": 413
+  },
+  {
+    "english": "News",
+    "arabic": "أخْبار",
+    "pronunciation": "akhbaar",
+    "index": 414
+  },
+  {
+    "english": "Newspaper",
+    "arabic": "جَريدَة",
+    "pronunciation": "jariida",
+    "index": 415
+  },
+  {
+    "english": "Nice",
+    "arabic": "لَطيف",
+    "pronunciation": "laTiif",
+    "index": 416
+  },
+  {
+    "english": "Nickname",
+    "arabic": "لَقَب",
+    "pronunciation": "laqab",
+    "index": 417
+  },
+  {
+    "english": "Night",
+    "arabic": "ليل",
+    "pronunciation": "leil",
+    "index": 418
+  },
+  {
+    "english": "Nine",
+    "arabic": "تِسْعَة",
+    "pronunciation": "tis3a",
+    "index": 419
+  },
+  {
+    "english": "No",
+    "arabic": "لا",
+    "pronunciation": "laa",
+    "index": 420
+  },
+  {
+    "english": "Noise",
+    "arabic": "إزْعاج",
+    "pronunciation": "iz3aaj",
+    "index": 421
+  },
+  {
+    "english": "North",
+    "arabic": "شْمال",
+    "pronunciation": "shmaal",
+    "index": 422
+  },
+  {
+    "english": "Nose",
+    "arabic": "مُنْخار",
+    "pronunciation": "munkhaar",
+    "index": 423
+  },
+  {
+    "english": "Notebook",
+    "arabic": "دَفْتَر",
+    "pronunciation": "daftar",
+    "index": 424
+  },
+  {
+    "english": "Nothing",
+    "arabic": "ولا إشي",
+    "pronunciation": "walaa ishiy",
+    "index": 425
+  },
+  {
+    "english": "Now",
+    "arabic": "هَلَّأ / هَسّا",
+    "pronunciation": "halla’ / hassaa",
+    "index": 426
+  },
+  {
+    "english": "Number",
+    "arabic": "رَقَم",
+    "pronunciation": "raqam",
+    "index": 427
+  },
+  {
+    "english": "Ocean",
+    "arabic": "مُحيط",
+    "pronunciation": "muHiiT",
+    "index": 428
+  },
+  {
+    "english": "Of course",
+    "arabic": "طَبْعاً",
+    "pronunciation": "Tab3an",
+    "index": 429
+  },
+  {
+    "english": "Offer",
+    "arabic": "عَرْض",
+    "pronunciation": "3arD",
+    "index": 430
+  },
+  {
+    "english": "Office",
+    "arabic": "مَكْتَب",
+    "pronunciation": "maktab",
+    "index": 431
+  },
+  {
+    "english": "Official",
+    "arabic": "رَسْمي",
+    "pronunciation": "rasmiy",
+    "index": 432
+  },
+  {
+    "english": "Often",
+    "arabic": "غالِباً",
+    "pronunciation": "ghaaliban",
+    "index": 433
+  },
+  {
+    "english": "Oil",
+    "arabic": "زَيْت",
+    "pronunciation": "zait",
+    "index": 434
+  },
+  {
+    "english": "Okay",
+    "arabic": "تمام",
+    "pronunciation": "tamaam",
+    "index": 435
+  },
+  {
+    "english": "Old (things)",
+    "arabic": "قَديم",
+    "pronunciation": "qadiim",
+    "index": 436
+  },
+  {
+    "english": "Olives",
+    "arabic": "زَيْتون",
+    "pronunciation": "zaytoon",
+    "index": 437
+  },
+  {
+    "english": "On",
+    "arabic": "عَلى",
+    "pronunciation": "3alaa",
+    "index": 438
+  },
+  {
+    "english": "Once",
+    "arabic": "مَرَّة",
+    "pronunciation": "marra",
+    "index": 439
+  },
+  {
+    "english": "One",
+    "arabic": "واحَد",
+    "pronunciation": "waaHad",
+    "index": 440
+  },
+  {
+    "english": "Onion",
+    "arabic": "بَصَل",
+    "pronunciation": "baSal",
+    "index": 441
+  },
+  {
+    "english": "Only",
+    "arabic": "بَسّ",
+    "pronunciation": "bass",
+    "index": 442
+  },
+  {
+    "english": "Opinion",
+    "arabic": "رَأي",
+    "pronunciation": "ra’y",
+    "index": 443
+  },
+  {
+    "english": "Opposite",
+    "arabic": "عَكْس",
+    "pronunciation": "3aks",
+    "index": 444
+  },
+  {
+    "english": "Or",
+    "arabic": "أو",
+    "pronunciation": "aw",
+    "index": 445
+  },
+  {
+    "english": "Orange",
+    "arabic": "بُرْتُقال",
+    "pronunciation": "burtuqaal",
+    "index": 446
+  },
+  {
+    "english": "Organization",
+    "arabic": "مُنَظَّمَة",
+    "pronunciation": "mnaDHDHama",
+    "index": 447
+  },
+  {
+    "english": "Out",
+    "arabic": "بَرّا",
+    "pronunciation": "barraa",
+    "index": 448
+  },
+  {
+    "english": "Pain",
+    "arabic": "وَجَع",
+    "pronunciation": "waja3",
+    "index": 449
+  },
+  {
+    "english": "Palm",
+    "arabic": "نَخْلِة",
+    "pronunciation": "nakhleh",
+    "index": 450
+  },
+  {
+    "english": "Paper",
+    "arabic": "وَرَقة",
+    "pronunciation": "waraqa",
+    "index": 451
+  },
+  {
+    "english": "Park/ garden",
+    "arabic": "حَديقة",
+    "pronunciation": "Hadiiqa",
+    "index": 452
+  },
+  {
+    "english": "Part",
+    "arabic": "جُزُء",
+    "pronunciation": "juzu’",
+    "index": 453
+  },
+  {
+    "english": "Partner",
+    "arabic": "شْريك",
+    "pronunciation": "shriik",
+    "index": 454
+  },
+  {
+    "english": "Party",
+    "arabic": "حَفْلِة",
+    "pronunciation": "Hafleh",
+    "index": 455
+  },
+  {
+    "english": "Past",
+    "arabic": "ماضي",
+    "pronunciation": "maaDiy",
+    "index": 456
+  },
+  {
+    "english": "Payment",
+    "arabic": "دُفْعَة",
+    "pronunciation": "duf3a",
+    "index": 457
+  },
+  {
+    "english": "Pen",
+    "arabic": "قَلَم",
+    "pronunciation": "qalam",
+    "index": 458
+  },
+  {
+    "english": "Penny",
+    "arabic": "قِرْش",
+    "pronunciation": "qirsh",
+    "index": 459
+  },
+  {
+    "english": "People",
+    "arabic": "ناس",
+    "pronunciation": "naas",
+    "index": 460
+  },
+  {
+    "english": "Percentage",
+    "arabic": "نِسْبِة",
+    "pronunciation": "nisbeh",
+    "index": 461
+  },
+  {
+    "english": "Perfume",
+    "arabic": "عُطُر",
+    "pronunciation": "3uTur",
+    "index": 462
+  },
+  {
+    "english": "Permit",
+    "arabic": "تَصْريح",
+    "pronunciation": "taSriiH",
+    "index": 463
+  },
+  {
+    "english": "Person",
+    "arabic": "شَخْص",
+    "pronunciation": "shakhS",
+    "index": 464
+  },
+  {
+    "english": "Phone",
+    "arabic": "تِليفون",
+    "pronunciation": "tiliifoon",
+    "index": 465
+  },
+  {
+    "english": "Photo",
+    "arabic": "صورَة",
+    "pronunciation": "Suura",
+    "index": 466
+  },
+  {
+    "english": "Piece",
+    "arabic": "قِطْعة",
+    "pronunciation": "qiT3a",
+    "index": 467
+  },
+  {
+    "english": "Pigeon",
+    "arabic": "حَمامِة",
+    "pronunciation": "Hamaameh",
+    "index": 468
+  },
+  {
+    "english": "Pill",
+    "arabic": "حَبّة",
+    "pronunciation": "Habbeh",
+    "index": 469
+  },
+  {
+    "english": "Pillow",
+    "arabic": "مْخَدّة",
+    "pronunciation": "mkhaddeh",
+    "index": 470
+  },
+  {
+    "english": "Pink",
+    "arabic": "زَهْري",
+    "pronunciation": "zahriy",
+    "index": 471
+  },
+  {
+    "english": "Place",
+    "arabic": "مَكان",
+    "pronunciation": "makaan",
+    "index": 472
+  },
+  {
+    "english": "Plan",
+    "arabic": "خُطَّة",
+    "pronunciation": "khuTTa",
+    "index": 473
+  },
+  {
+    "english": "Plane",
+    "arabic": "طَيّارَة",
+    "pronunciation": "Tayyaara",
+    "index": 474
+  },
+  {
+    "english": "Planet",
+    "arabic": "كَوْكَب",
+    "pronunciation": "kawkab",
+    "index": 475
+  },
+  {
+    "english": "Plaster",
+    "arabic": "بْلاستر",
+    "pronunciation": "blaastir",
+    "index": 476
+  },
+  {
+    "english": "Plastic bag",
+    "arabic": "كيس",
+    "pronunciation": "kiis",
+    "index": 477
+  },
+  {
+    "english": "Plate",
+    "arabic": "صَحِن",
+    "pronunciation": "SaHin",
+    "index": 478
+  },
+  {
+    "english": "Playground",
+    "arabic": "مَلْعَب",
+    "pronunciation": "mal3ab",
+    "index": 479
+  },
+  {
+    "english": "Please",
+    "arabic": "لَوْ سَمَحْت",
+    "pronunciation": "law samaHt",
+    "index": 480
+  },
+  {
+    "english": "Plural",
+    "arabic": "جَمِع",
+    "pronunciation": "jami3",
+    "index": 481
+  },
+  {
+    "english": "Police",
+    "arabic": "شُرْطَة",
+    "pronunciation": "shurTa",
+    "index": 482
+  },
+  {
+    "english": "Policeman",
+    "arabic": "شُرْطي",
+    "pronunciation": "shurTiy",
+    "index": 483
+  },
+  {
+    "english": "Polite",
+    "arabic": "مُؤَدَّب",
+    "pronunciation": "mu’addab",
+    "index": 484
+  },
+  {
+    "english": "Politician",
+    "arabic": "سِياسي",
+    "pronunciation": "siyaasiy",
+    "index": 485
+  },
+  {
+    "english": "Politics",
+    "arabic": "سِياسَة",
+    "pronunciation": "siyaasa",
+    "index": 486
+  },
+  {
+    "english": "Poor",
+    "arabic": "فَقير",
+    "pronunciation": "faqiir",
+    "index": 487
+  },
+  {
+    "english": "Popular",
+    "arabic": "مَشْهور",
+    "pronunciation": "mashuur",
+    "index": 488
+  },
+  {
+    "english": "Potato",
+    "arabic": "بَطاطا",
+    "pronunciation": "baTaaTaa",
+    "index": 489
+  },
+  {
+    "english": "Practice",
+    "arabic": "تَدْريب",
+    "pronunciation": "tadriib",
+    "index": 490
+  },
+  {
+    "english": "Prayer",
+    "arabic": "صَلاة",
+    "pronunciation": "Salaa",
+    "index": 491
+  },
+  {
+    "english": "Pregnant",
+    "arabic": "حامِل",
+    "pronunciation": "Haamil",
+    "index": 492
+  },
+  {
+    "english": "President",
+    "arabic": "رَئيس",
+    "pronunciation": "ra’iis",
+    "index": 493
+  },
+  {
+    "english": "Price",
+    "arabic": "سِعْر",
+    "pronunciation": "si3r",
+    "index": 494
+  },
+  {
+    "english": "Prince",
+    "arabic": "أَمير",
+    "pronunciation": "amiir",
+    "index": 495
+  },
+  {
+    "english": "Princess",
+    "arabic": "أَميرَة",
+    "pronunciation": "amiira",
+    "index": 496
+  },
+  {
+    "english": "Prize",
+    "arabic": "جائزَة",
+    "pronunciation": "jaa’iza",
+    "index": 497
+  },
+  {
+    "english": "Probably",
+    "arabic": "على الأغْلَب",
+    "pronunciation": "3alal-aghlab",
+    "index": 498
+  },
+  {
+    "english": "Problem",
+    "arabic": "مُشْكِلِة",
+    "pronunciation": "mushkileh",
+    "index": 499
+  },
+  {
+    "english": "Production",
+    "arabic": "إنْتاج",
+    "pronunciation": "intaaj",
+    "index": 500
+  },
+  {
+    "english": "Program",
+    "arabic": "بَرْنامِج",
+    "pronunciation": "barnaamij",
+    "index": 501
+  },
+  {
+    "english": "Project",
+    "arabic": "مَشْروع",
+    "pronunciation": "mashruu3",
+    "index": 502
+  },
+  {
+    "english": "Promise",
+    "arabic": "وَعِد",
+    "pronunciation": "wa3id",
+    "index": 503
+  },
+  {
+    "english": "Proud",
+    "arabic": "فَخور",
+    "pronunciation": "fakhuur",
+    "index": 504
+  },
+  {
+    "english": "Purpose/ goal",
+    "arabic": "هَدَف",
+    "pronunciation": "hadaf",
+    "index": 505
+  },
+  {
+    "english": "Purse",
+    "arabic": "شَنْطَة",
+    "pronunciation": "shanTa",
+    "index": 506
+  },
+  {
+    "english": "Queen",
+    "arabic": "مَلِكَة",
+    "pronunciation": "malika",
+    "index": 507
+  },
+  {
+    "english": "Question",
+    "arabic": "سُؤال",
+    "pronunciation": "su’aal",
+    "index": 508
+  },
+  {
+    "english": "Rain",
+    "arabic": "مَطَر",
+    "pronunciation": "maTar",
+    "index": 509
+  },
+  {
+    "english": "Rainbow",
+    "arabic": "قَوْس قُزَح",
+    "pronunciation": "qaws qazaH",
+    "index": 510
+  },
+  {
+    "english": "Rarely",
+    "arabic": "نادِراً",
+    "pronunciation": "naadiran",
+    "index": 511
+  },
+  {
+    "english": "Reaction",
+    "arabic": "رَدَّة فِعْل",
+    "pronunciation": "Raddat fi3l",
+    "index": 512
+  },
+  {
+    "english": "Ready",
+    "arabic": "جاهِز",
+    "pronunciation": "jaahiz",
+    "index": 513
+  },
+  {
+    "english": "Real",
+    "arabic": "حَقيقي",
+    "pronunciation": "Haqiiqiy",
+    "index": 514
+  },
+  {
+    "english": "Really",
+    "arabic": "عَنْجَدّ",
+    "pronunciation": "3anjadd",
+    "index": 515
+  },
+  {
+    "english": "Reason",
+    "arabic": "سَبَب",
+    "pronunciation": "sabab",
+    "index": 516
+  },
+  {
+    "english": "Reception",
+    "arabic": "اِستِقْبال",
+    "pronunciation": "istiqbaal",
+    "index": 517
+  },
+  {
+    "english": "Recovery",
+    "arabic": "شِفاء",
+    "pronunciation": "shifaa’",
+    "index": 518
+  },
+  {
+    "english": "Red",
+    "arabic": "أَحْمَر",
+    "pronunciation": "aHmar",
+    "index": 519
+  },
+  {
+    "english": "Relationship",
+    "arabic": "عَلاقَة",
+    "pronunciation": "3alaaqa",
+    "index": 520
+  },
+  {
+    "english": "Religion",
+    "arabic": "دين",
+    "pronunciation": "diin",
+    "index": 521
+  },
+  {
+    "english": "Report",
+    "arabic": "تَقْرير",
+    "pronunciation": "taqriir",
+    "index": 522
+  },
+  {
+    "english": "Republic",
+    "arabic": "جُمْهُورِيّة",
+    "pronunciation": "jumhuriyyeh",
+    "index": 523
+  },
+  {
+    "english": "Rice",
+    "arabic": "رُزّ",
+    "pronunciation": "rozz",
+    "index": 524
+  },
+  {
+    "english": "Rich",
+    "arabic": "غَني",
+    "pronunciation": "ghanaa",
+    "index": 525
+  },
+  {
+    "english": "Right (direction)",
+    "arabic": "يَمين",
+    "pronunciation": "yamiin",
+    "index": 526
+  },
+  {
+    "english": "Ring",
+    "arabic": "خاتِم",
+    "pronunciation": "khaatim",
+    "index": 527
+  },
+  {
+    "english": "River",
+    "arabic": "نَهْر",
+    "pronunciation": "nahr",
+    "index": 528
+  },
+  {
+    "english": "Road",
+    "arabic": "طَريق",
+    "pronunciation": "Tariiq",
+    "index": 529
+  },
+  {
+    "english": "Rock",
+    "arabic": "حَجَر",
+    "pronunciation": "Hajar",
+    "index": 530
+  },
+  {
+    "english": "Room",
+    "arabic": "غُرْفِة",
+    "pronunciation": "ghurfeh",
+    "index": 531
+  },
+  {
+    "english": "Sad",
+    "arabic": "حَزين",
+    "pronunciation": "Haziin",
+    "index": 532
+  },
+  {
+    "english": "Salad",
+    "arabic": "سَلَطَة",
+    "pronunciation": "salaTa",
+    "index": 533
+  },
+  {
+    "english": "Salary",
+    "arabic": "راتِب",
+    "pronunciation": "raatib",
+    "index": 534
+  },
+  {
+    "english": "Salt",
+    "arabic": "مِلِح",
+    "pronunciation": "miliH",
+    "index": 535
+  },
+  {
+    "english": "Same",
+    "arabic": "نَفْس",
+    "pronunciation": "nafs",
+    "index": 536
+  },
+  {
+    "english": "Say / To speak / To talk / To tell",
+    "arabic": "حَكَى",
+    "pronunciation": "Hakaa",
+    "index": 537
+  },
+  {
+    "english": "Say/ tell",
+    "arabic": "قال",
+    "pronunciation": "qaal",
+    "index": 538
+  },
+  {
+    "english": "Scared",
+    "arabic": "خايِف",
+    "pronunciation": "khaayef",
+    "index": 539
+  },
+  {
+    "english": "Scarf",
+    "arabic": "لَفْحَة",
+    "pronunciation": "lafHa",
+    "index": 540
+  },
+  {
+    "english": "Schedule",
+    "arabic": "جَدْوَل",
+    "pronunciation": "jadwal",
+    "index": 541
+  },
+  {
+    "english": "School",
+    "arabic": "مَدْرَسِة",
+    "pronunciation": "madraseh",
+    "index": 542
+  },
+  {
+    "english": "Screwdriver",
+    "arabic": "مَفَكّ",
+    "pronunciation": "mafakk",
+    "index": 543
+  },
+  {
+    "english": "Sea",
+    "arabic": "بَحَر",
+    "pronunciation": "baHar",
+    "index": 544
+  },
+  {
+    "english": "Season",
+    "arabic": "فَصْل",
+    "pronunciation": "faSl",
+    "index": 545
+  },
+  {
+    "english": "Second",
+    "arabic": "ثانْيِة",
+    "pronunciation": "thaaniyeh",
+    "index": 546
+  },
+  {
+    "english": "Secret",
+    "arabic": "سِرّ",
+    "pronunciation": "sirr",
+    "index": 547
+  },
+  {
+    "english": "Seller",
+    "arabic": "بَيّاع",
+    "pronunciation": "bayyaa3",
+    "index": 548
+  },
+  {
+    "english": "Sentence",
+    "arabic": "جُمْلِة",
+    "pronunciation": "jumleh",
+    "index": 549
+  },
+  {
+    "english": "Service",
+    "arabic": "خِدْمَة",
+    "pronunciation": "khidmah",
+    "index": 550
+  },
+  {
+    "english": "Seven",
+    "arabic": "سَبْعَة",
+    "pronunciation": "sab3a",
+    "index": 551
+  },
+  {
+    "english": "She",
+    "arabic": "هِيّ",
+    "pronunciation": "hiyyeh",
+    "index": 552
+  },
+  {
+    "english": "Sheep",
+    "arabic": "غَنَمِة",
+    "pronunciation": "ghanameh",
+    "index": 553
+  },
+  {
+    "english": "Ship",
+    "arabic": "سَفينة",
+    "pronunciation": "safiina",
+    "index": 554
+  },
+  {
+    "english": "Shirt",
+    "arabic": "قَميص",
+    "pronunciation": "qamiiS",
+    "index": 555
+  },
+  {
+    "english": "Shoes",
+    "arabic": "كُنْدَرَة / بوت",
+    "pronunciation": "kundara / boot",
+    "index": 556
+  },
+  {
+    "english": "Shop",
+    "arabic": "دُكّان",
+    "pronunciation": "dukkaan",
+    "index": 557
+  },
+  {
+    "english": "Shopping",
+    "arabic": "تَسَوُّق",
+    "pronunciation": "tasawwuq",
+    "index": 558
+  },
+  {
+    "english": "Short",
+    "arabic": "قَصير",
+    "pronunciation": "qaSiir",
+    "index": 559
+  },
+  {
+    "english": "Should",
+    "arabic": "لازم",
+    "pronunciation": "laazim",
+    "index": 560
+  },
+  {
+    "english": "Shoulder",
+    "arabic": "كِتِف",
+    "pronunciation": "kitif",
+    "index": 561
+  },
+  {
+    "english": "Sick person",
+    "arabic": "مَريض",
+    "pronunciation": "mariiD",
+    "index": 562
+  },
+  {
+    "english": "Sickness",
+    "arabic": "مَرَض",
+    "pronunciation": "maraD",
+    "index": 563
+  },
+  {
+    "english": "Singer",
+    "arabic": "مُغَنّي",
+    "pronunciation": "mughanniy",
+    "index": 564
+  },
+  {
+    "english": "Singular",
+    "arabic": "مُفْرَد",
+    "pronunciation": "mufrad",
+    "index": 565
+  },
+  {
+    "english": "Sister",
+    "arabic": "أُخْت",
+    "pronunciation": "ukht",
+    "index": 566
+  },
+  {
+    "english": "Six",
+    "arabic": "سِتِّة",
+    "pronunciation": "sitteh",
+    "index": 567
+  },
+  {
+    "english": "Size",
+    "arabic": "قْياس",
+    "pronunciation": "qyaas",
+    "index": 568
+  },
+  {
+    "english": "Sky",
+    "arabic": "سَماء",
+    "pronunciation": "samaa’",
+    "index": 569
+  },
+  {
+    "english": "Sleepy",
+    "arabic": "نَعْسان",
+    "pronunciation": "na3saan",
+    "index": 570
+  },
+  {
+    "english": "Smart",
+    "arabic": "ذَكي",
+    "pronunciation": "dhakiy",
+    "index": 571
+  },
+  {
+    "english": "Smell",
+    "arabic": "ريحة",
+    "pronunciation": "riiHa",
+    "index": 572
+  },
+  {
+    "english": "Smile",
+    "arabic": "ابْتِسامِة",
+    "pronunciation": "ibtisaameh",
+    "index": 573
+  },
+  {
+    "english": "Snake",
+    "arabic": "حَيِّة",
+    "pronunciation": "Hayyeh",
+    "index": 574
+  },
+  {
+    "english": "Snow/ ice",
+    "arabic": "ثَلْج",
+    "pronunciation": "thalj",
+    "index": 575
+  },
+  {
+    "english": "So",
+    "arabic": "___فَ",
+    "pronunciation": "fa___",
+    "index": 576
+  },
+  {
+    "english": "Socks",
+    "arabic": "جُرْبان",
+    "pronunciation": "jurbaan",
+    "index": 577
+  },
+  {
+    "english": "Soldier",
+    "arabic": "جُنْدي",
+    "pronunciation": "jundiy",
+    "index": 578
+  },
+  {
+    "english": "Solution / To solve",
+    "arabic": "حَلّ",
+    "pronunciation": "Hall",
+    "index": 579
+  },
+  {
+    "english": "Something",
+    "arabic": "إشي",
+    "pronunciation": "ishiy",
+    "index": 580
+  },
+  {
+    "english": "Sometimes",
+    "arabic": "أَحْياناً / مَرّات",
+    "pronunciation": "aHyaanan / marraat",
+    "index": 581
+  },
+  {
+    "english": "Son",
+    "arabic": "ابْن",
+    "pronunciation": "ibn",
+    "index": 582
+  },
+  {
+    "english": "Song",
+    "arabic": "أُغْنِيِّة",
+    "pronunciation": "oghniyyeh",
+    "index": 583
+  },
+  {
+    "english": "Sorry",
+    "arabic": "آسِف",
+    "pronunciation": "Aasif",
+    "index": 584
+  },
+  {
+    "english": "Soup",
+    "arabic": "شُرَبَة",
+    "pronunciation": "shoraba",
+    "index": 585
+  },
+  {
+    "english": "South",
+    "arabic": "جَنوب",
+    "pronunciation": "januub",
+    "index": 586
+  },
+  {
+    "english": "Spoon",
+    "arabic": "مَعْلَقَة",
+    "pronunciation": "ma3laqa",
+    "index": 587
+  },
+  {
+    "english": "Sport",
+    "arabic": "رِياضَة",
+    "pronunciation": "riyaaDa",
+    "index": 588
+  },
+  {
+    "english": "Spray",
+    "arabic": "بَخّاخ",
+    "pronunciation": "bakhkhaakh",
+    "index": 589
+  },
+  {
+    "english": "Spring",
+    "arabic": "رَبيع",
+    "pronunciation": "rabii3",
+    "index": 590
+  },
+  {
+    "english": "Square",
+    "arabic": "مُرَبَّع",
+    "pronunciation": "murabba3",
+    "index": 591
+  },
+  {
+    "english": "Stamp",
+    "arabic": "خِتِم",
+    "pronunciation": "khitim",
+    "index": 592
+  },
+  {
+    "english": "Star",
+    "arabic": "نِجْمَة",
+    "pronunciation": "nijma",
+    "index": 593
+  },
+  {
+    "english": "Station",
+    "arabic": "مَحَطَّة",
+    "pronunciation": "maHaTTa",
+    "index": 594
+  },
+  {
+    "english": "Still",
+    "arabic": "لِسّا",
+    "pronunciation": "lissaa",
+    "index": 595
+  },
+  {
+    "english": "Stomach",
+    "arabic": "مِعْدِة",
+    "pronunciation": "mi3deh",
+    "index": 596
+  },
+  {
+    "english": "Stomach-ache",
+    "arabic": "مَغِص",
+    "pronunciation": "maghiS",
+    "index": 597
+  },
+  {
+    "english": "Storm",
+    "arabic": "عاصِفة",
+    "pronunciation": "3aasifeh",
+    "index": 598
+  },
+  {
+    "english": "Story",
+    "arabic": "قِصَّة",
+    "pronunciation": "qiSSa",
+    "index": 599
+  },
+  {
+    "english": "Street",
+    "arabic": "شارِع",
+    "pronunciation": "shaari3",
+    "index": 600
+  },
+  {
+    "english": "Student",
+    "arabic": "طالِب",
+    "pronunciation": "Taalib",
+    "index": 601
+  },
+  {
+    "english": "Stupid",
+    "arabic": "غَبي",
+    "pronunciation": "ghabiy",
+    "index": 602
+  },
+  {
+    "english": "Style",
+    "arabic": "أُسْلوب",
+    "pronunciation": "osloob",
+    "index": 603
+  },
+  {
+    "english": "Successful",
+    "arabic": "ناجِح",
+    "pronunciation": "naajiH",
+    "index": 604
+  },
+  {
+    "english": "Suddenly",
+    "arabic": "فَجْأة",
+    "pronunciation": "faj’a",
+    "index": 605
+  },
+  {
+    "english": "Sugar",
+    "arabic": "سُكَّر",
+    "pronunciation": "sukkar",
+    "index": 606
+  },
+  {
+    "english": "Suggestion",
+    "arabic": "اقْتِراح",
+    "pronunciation": "iqtiraaH",
+    "index": 607
+  },
+  {
+    "english": "Suit",
+    "arabic": "بَدْلِة",
+    "pronunciation": "badleh",
+    "index": 608
+  },
+  {
+    "english": "Summer",
+    "arabic": "صَيْف",
+    "pronunciation": "Sayf",
+    "index": 609
+  },
+  {
+    "english": "Sun",
+    "arabic": "شَمْس",
+    "pronunciation": "shams",
+    "index": 610
+  },
+  {
+    "english": "Sure",
+    "arabic": "أكيد",
+    "pronunciation": "akiid",
+    "index": 611
+  },
+  {
+    "english": "Surgery",
+    "arabic": "عَمَليّة",
+    "pronunciation": "3amaliyyeh",
+    "index": 612
+  },
+  {
+    "english": "Surprise",
+    "arabic": "مُفَاجأة",
+    "pronunciation": "mufaaja’a",
+    "index": 613
+  },
+  {
+    "english": "Sweet (adj.)",
+    "arabic": "حِلو",
+    "pronunciation": "Hilou",
+    "index": 614
+  },
+  {
+    "english": "Sweets",
+    "arabic": "حَلَوِيّات",
+    "pronunciation": "Halawiyyaat",
+    "index": 615
+  },
+  {
+    "english": "Swimming",
+    "arabic": "سِباحة",
+    "pronunciation": "sibaaHa",
+    "index": 616
+  },
+  {
+    "english": "Swimming pool",
+    "arabic": "مَسْبَح",
+    "pronunciation": "masbaH",
+    "index": 617
+  },
+  {
+    "english": "System",
+    "arabic": "نِظام",
+    "pronunciation": "niDHaam",
+    "index": 618
+  },
+  {
+    "english": "Table",
+    "arabic": "طاوْلِة",
+    "pronunciation": "Taawleh",
+    "index": 619
+  },
+  {
+    "english": "Talent",
+    "arabic": "مَوْهِبَة",
+    "pronunciation": "mawhiba",
+    "index": 620
+  },
+  {
+    "english": "Talk (n.)",
+    "arabic": "حَكي",
+    "pronunciation": "Haki",
+    "index": 621
+  },
+  {
+    "english": "TAX",
+    "arabic": "ضَريبِة",
+    "pronunciation": "Dariibeh",
+    "index": 622
+  },
+  {
+    "english": "Taxi",
+    "arabic": "تاكْسِي",
+    "pronunciation": "taaksi",
+    "index": 623
+  },
+  {
+    "english": "Tea",
+    "arabic": "شاي",
+    "pronunciation": "shaay",
+    "index": 624
+  },
+  {
+    "english": "Teacher",
+    "arabic": "مُدَرّس",
+    "pronunciation": "mudarris",
+    "index": 625
+  },
+  {
+    "english": "Television",
+    "arabic": "تِلْفِزْيون",
+    "pronunciation": "tilfizyoon",
+    "index": 626
+  },
+  {
+    "english": "Temperature",
+    "arabic": "حَرارة",
+    "pronunciation": "Haraara",
+    "index": 627
+  },
+  {
+    "english": "Temporary",
+    "arabic": "مؤَقَّت",
+    "pronunciation": "mu’aqqat",
+    "index": 628
+  },
+  {
+    "english": "Ten",
+    "arabic": "عَشَرَة",
+    "pronunciation": "3ashara",
+    "index": 629
+  },
+  {
+    "english": "Thanks",
+    "arabic": "شُكُر",
+    "pronunciation": "shukur",
+    "index": 630
+  },
+  {
+    "english": "That",
+    "arabic": "إنّه",
+    "pronunciation": "inno",
+    "index": 631
+  },
+  {
+    "english": "The best",
+    "arabic": "الأحْسَن",
+    "pronunciation": "alaHsan",
+    "index": 632
+  },
+  {
+    "english": "There",
+    "arabic": "هُناك",
+    "pronunciation": "honaak",
+    "index": 633
+  },
+  {
+    "english": "They",
+    "arabic": "هُمّ",
+    "pronunciation": "hummeh",
+    "index": 634
+  },
+  {
+    "english": "Thing",
+    "arabic": "شَغْلِة",
+    "pronunciation": "shaghleh",
+    "index": 635
+  },
+  {
+    "english": "Thirsty",
+    "arabic": "عَطْشان",
+    "pronunciation": "3aTshaan",
+    "index": 636
+  },
+  {
+    "english": "This (m) / This (f)",
+    "arabic": "هاد / هاي",
+    "pronunciation": "haad / haay",
+    "index": 637
+  },
+  {
+    "english": "Thousand",
+    "arabic": "أَلْف",
+    "pronunciation": "alf",
+    "index": 638
+  },
+  {
+    "english": "Three",
+    "arabic": "تَلاتِة",
+    "pronunciation": "talaateh",
+    "index": 639
+  },
+  {
+    "english": "Throat",
+    "arabic": "زور",
+    "pronunciation": "zoor",
+    "index": 640
+  },
+  {
+    "english": "Thunder",
+    "arabic": "رَعِد",
+    "pronunciation": "ra3id",
+    "index": 641
+  },
+  {
+    "english": "Time",
+    "arabic": "وَقْت",
+    "pronunciation": "waqt",
+    "index": 642
+  },
+  {
+    "english": "Tired",
+    "arabic": "تَعْبان",
+    "pronunciation": "ta3baan",
+    "index": 643
+  },
+  {
+    "english": "Tissue",
+    "arabic": "مَحْرَمِة",
+    "pronunciation": "maHrameh",
+    "index": 644
+  },
+  {
+    "english": "To",
+    "arabic": "إلى / لَ",
+    "pronunciation": "ilaa / la___",
+    "index": 645
+  },
+  {
+    "english": "To accept",
+    "arabic": "قِبِل",
+    "pronunciation": "qibil",
+    "index": 646
+  },
+  {
+    "english": "To advise",
+    "arabic": "نَصَح",
+    "pronunciation": "naSaH",
+    "index": 647
+  },
+  {
+    "english": "To agree",
+    "arabic": "وافَق",
+    "pronunciation": "waafaq",
+    "index": 648
+  },
+  {
+    "english": "To announce",
+    "arabic": "أَعْلَن",
+    "pronunciation": "a3lan",
+    "index": 649
+  },
+  {
+    "english": "To annoy",
+    "arabic": "أَزْعَج",
+    "pronunciation": "az3aj",
+    "index": 650
+  },
+  {
+    "english": "To answer",
+    "arabic": "جاوَب",
+    "pronunciation": "jaawab",
+    "index": 651
+  },
+  {
+    "english": "To answer (the phone)/ reply",
+    "arabic": "رَدّ",
+    "pronunciation": "radd",
+    "index": 652
+  },
+  {
+    "english": "To apologize",
+    "arabic": "اِعْتَذَر",
+    "pronunciation": "i3tadhar",
+    "index": 653
+  },
+  {
+    "english": "To ask",
+    "arabic": "سَأَل",
+    "pronunciation": "sa’al",
+    "index": 654
+  },
+  {
+    "english": "To ask for",
+    "arabic": "طَلَب",
+    "pronunciation": "Talab",
+    "index": 655
+  },
+  {
+    "english": "To avoid",
+    "arabic": "تْجَنَّب",
+    "pronunciation": "tjannab",
+    "index": 656
+  },
+  {
+    "english": "To be",
+    "arabic": "كان",
+    "pronunciation": "kaan",
+    "index": 657
+  },
+  {
+    "english": "To be able",
+    "arabic": "قِدِر",
+    "pronunciation": "qidir",
+    "index": 658
+  },
+  {
+    "english": "To be jealous",
+    "arabic": "غار",
+    "pronunciation": "ghaar",
+    "index": 659
+  },
+  {
+    "english": "To beg",
+    "arabic": "تْرَجَّى",
+    "pronunciation": "trajjaa",
+    "index": 660
+  },
+  {
+    "english": "To betray",
+    "arabic": "خان",
+    "pronunciation": "khaan",
+    "index": 661
+  },
+  {
+    "english": "To blame",
+    "arabic": "لام",
+    "pronunciation": "laam",
+    "index": 662
+  },
+  {
+    "english": "To bring",
+    "arabic": "جاب",
+    "pronunciation": "jaab",
+    "index": 663
+  },
+  {
+    "english": "To build",
+    "arabic": "بَنَى",
+    "pronunciation": "banaa",
+    "index": 664
+  },
+  {
+    "english": "To buy",
+    "arabic": "اِشْتَرَى",
+    "pronunciation": "ishtaraa",
+    "index": 665
+  },
+  {
+    "english": "To call (by phone)",
+    "arabic": "رَنّ",
+    "pronunciation": "rann",
+    "index": 666
+  },
+  {
+    "english": "To call (name)",
+    "arabic": "سمَّى",
+    "pronunciation": "sammaa",
+    "index": 667
+  },
+  {
+    "english": "To calm down",
+    "arabic": "هِدِي",
+    "pronunciation": "hidii",
+    "index": 668
+  },
+  {
+    "english": "To cancel",
+    "arabic": "لَغَى",
+    "pronunciation": "laghaa",
+    "index": 669
+  },
+  {
+    "english": "To care",
+    "arabic": "اِهْتَمّ",
+    "pronunciation": "ihtamm",
+    "index": 670
+  },
+  {
+    "english": "To carry",
+    "arabic": "حِمِل",
+    "pronunciation": "Himil",
+    "index": 671
+  },
+  {
+    "english": "To check",
+    "arabic": "شَيَّك",
+    "pronunciation": "shayyak",
+    "index": 672
+  },
+  {
+    "english": "To choose",
+    "arabic": "اِخْتار",
+    "pronunciation": "ikhtaar",
+    "index": 673
+  },
+  {
+    "english": "To clean",
+    "arabic": "نَظَّف",
+    "pronunciation": "naDHDHaf",
+    "index": 674
+  },
+  {
+    "english": "To close",
+    "arabic": "سَكَّر",
+    "pronunciation": "sakkar",
+    "index": 675
+  },
+  {
+    "english": "To compare",
+    "arabic": "قارَن",
+    "pronunciation": "qaaran",
+    "index": 676
+  },
+  {
+    "english": "To complain",
+    "arabic": "شَكَى",
+    "pronunciation": "shakaa",
+    "index": 677
+  },
+  {
+    "english": "To complete",
+    "arabic": "كَمَّل",
+    "pronunciation": "kammal",
+    "index": 678
+  },
+  {
+    "english": "To conclude/ deduct",
+    "arabic": "اِسْتَنْتَج",
+    "pronunciation": "istantaj",
+    "index": 679
+  },
+  {
+    "english": "To consider",
+    "arabic": "اِعْتَبَر",
+    "pronunciation": "i3tabar",
+    "index": 680
+  },
+  {
+    "english": "To continue / To remain/ stay",
+    "arabic": "ضَلّ",
+    "pronunciation": "Dall",
+    "index": 681
+  },
+  {
+    "english": "To convince",
+    "arabic": "قَنَع",
+    "pronunciation": "qana3",
+    "index": 682
+  },
+  {
+    "english": "To cost",
+    "arabic": "كَلَّف",
+    "pronunciation": "kallaf",
+    "index": 683
+  },
+  {
+    "english": "To cough",
+    "arabic": "قَحّ",
+    "pronunciation": "qaHH",
+    "index": 684
+  },
+  {
+    "english": "To count",
+    "arabic": "عَدّ",
+    "pronunciation": "3add",
+    "index": 685
+  },
+  {
+    "english": "To cry",
+    "arabic": "بِكِي",
+    "pronunciation": "bikii",
+    "index": 686
+  },
+  {
+    "english": "To dance",
+    "arabic": "رَقَص",
+    "pronunciation": "raqaS",
+    "index": 687
+  },
+  {
+    "english": "To decide",
+    "arabic": "قَرَّر",
+    "pronunciation": "qarrar",
+    "index": 688
+  },
+  {
+    "english": "To deny",
+    "arabic": "نَكَر",
+    "pronunciation": "nakar",
+    "index": 689
+  },
+  {
+    "english": "To deserve",
+    "arabic": "اِسْتَاهَل",
+    "pronunciation": "istaahal",
+    "index": 690
+  },
+  {
+    "english": "To die",
+    "arabic": "مات",
+    "pronunciation": "maat",
+    "index": 691
+  },
+  {
+    "english": "To discuss",
+    "arabic": "ناقَش",
+    "pronunciation": "naaqash",
+    "index": 692
+  },
+  {
+    "english": "To divide",
+    "arabic": "قَسَم",
+    "pronunciation": "qasam",
+    "index": 693
+  },
+  {
+    "english": "To do / To do/ make",
+    "arabic": "عِمِل / سَوَّى",
+    "pronunciation": "3imil / sawwaa",
+    "index": 694
+  },
+  {
+    "english": "To do the dishes",
+    "arabic": "جَلَى",
+    "pronunciation": "jalaa",
+    "index": 695
+  },
+  {
+    "english": "To draw",
+    "arabic": "رَسَم",
+    "pronunciation": "rasam",
+    "index": 696
+  },
+  {
+    "english": "To drink",
+    "arabic": "شِرِب",
+    "pronunciation": "shirib",
+    "index": 697
+  },
+  {
+    "english": "To drive",
+    "arabic": "ساق",
+    "pronunciation": "saaq",
+    "index": 698
+  },
+  {
+    "english": "To eat",
+    "arabic": "أَكَل",
+    "pronunciation": "akal",
+    "index": 699
+  },
+  {
+    "english": "To eat breakfast",
+    "arabic": "فَطَر",
+    "pronunciation": "faTar",
+    "index": 700
+  },
+  {
+    "english": "To enter",
+    "arabic": "دَخَل / فات",
+    "pronunciation": "dakhal / faat",
+    "index": 701
+  },
+  {
+    "english": "To expect",
+    "arabic": "تَوَقَّع",
+    "pronunciation": "tawaqqa3",
+    "index": 702
+  },
+  {
+    "english": "To face",
+    "arabic": "واجَه",
+    "pronunciation": "waajah",
+    "index": 703
+  },
+  {
+    "english": "To fast",
+    "arabic": "صام",
+    "pronunciation": "Saam",
+    "index": 704
+  },
+  {
+    "english": "To fear",
+    "arabic": "خاف",
+    "pronunciation": "khaaf",
+    "index": 705
+  },
+  {
+    "english": "To find",
+    "arabic": "لَقَى",
+    "pronunciation": "laqaa",
+    "index": 706
+  },
+  {
+    "english": "To finish",
+    "arabic": "خَلَص",
+    "pronunciation": "khalaS",
+    "index": 707
+  },
+  {
+    "english": "To fix/ repair",
+    "arabic": "صَلَّح",
+    "pronunciation": "SallaH",
+    "index": 708
+  },
+  {
+    "english": "To focus",
+    "arabic": "رَكَّز",
+    "pronunciation": "rakkaz",
+    "index": 709
+  },
+  {
+    "english": "To follow",
+    "arabic": "تابَع",
+    "pronunciation": "taaba3",
+    "index": 710
+  },
+  {
+    "english": "To forget",
+    "arabic": "نِسِي",
+    "pronunciation": "nisii",
+    "index": 711
+  },
+  {
+    "english": "To get / To take",
+    "arabic": "أَخَد",
+    "pronunciation": "akhad",
+    "index": 712
+  },
+  {
+    "english": "To get excited",
+    "arabic": "تْحَمَّس",
+    "pronunciation": "tHammas",
+    "index": 713
+  },
+  {
+    "english": "To get hungry",
+    "arabic": "جاع",
+    "pronunciation": "jaa3",
+    "index": 714
+  },
+  {
+    "english": "To get tired",
+    "arabic": "تِعِب",
+    "pronunciation": "ti3ib",
+    "index": 715
+  },
+  {
+    "english": "To give",
+    "arabic": "أَعْطَى",
+    "pronunciation": "a3Taa",
+    "index": 716
+  },
+  {
+    "english": "To go",
+    "arabic": "راح",
+    "pronunciation": "raaH",
+    "index": 717
+  },
+  {
+    "english": "To go down",
+    "arabic": "نِزِل",
+    "pronunciation": "nizil",
+    "index": 718
+  },
+  {
+    "english": "To grill",
+    "arabic": "شَوَى",
+    "pronunciation": "shawaa",
+    "index": 719
+  },
+  {
+    "english": "To have",
+    "arabic": "كان عِنْدُه",
+    "pronunciation": "kaan 3indo",
+    "index": 720
+  },
+  {
+    "english": "To hear / To listen",
+    "arabic": "سِمِع",
+    "pronunciation": "simi3",
+    "index": 721
+  },
+  {
+    "english": "To help",
+    "arabic": "سَاعَد",
+    "pronunciation": "saa3ad",
+    "index": 722
+  },
+  {
+    "english": "To impress",
+    "arabic": "عَجَب",
+    "pronunciation": "3ajab",
+    "index": 723
+  },
+  {
+    "english": "To invite",
+    "arabic": "عَزَم",
+    "pronunciation": "3azam",
+    "index": 724
+  },
+  {
+    "english": "To joke",
+    "arabic": "مَزَح",
+    "pronunciation": "mazaH",
+    "index": 725
+  },
+  {
+    "english": "To jump",
+    "arabic": "نَطّ",
+    "pronunciation": "naTT",
+    "index": 726
+  },
+  {
+    "english": "To keep / To let",
+    "arabic": "خَلّى",
+    "pronunciation": "khallaa",
+    "index": 727
+  },
+  {
+    "english": "To kiss",
+    "arabic": "باس",
+    "pronunciation": "baas",
+    "index": 728
+  },
+  {
+    "english": "To know",
+    "arabic": "عِرِف",
+    "pronunciation": "3irif",
+    "index": 729
+  },
+  {
+    "english": "To laugh",
+    "arabic": "ضِحِك",
+    "pronunciation": "DiHik",
+    "index": 730
+  },
+  {
+    "english": "To lay",
+    "arabic": "تْمَدَّد",
+    "pronunciation": "tmaddad",
+    "index": 731
+  },
+  {
+    "english": "To learn",
+    "arabic": "تْعَلَّم",
+    "pronunciation": "t3allam",
+    "index": 732
+  },
+  {
+    "english": "To leave",
+    "arabic": "تَرَك",
+    "pronunciation": "tarak",
+    "index": 733
+  },
+  {
+    "english": "To lie",
+    "arabic": "كَذَب",
+    "pronunciation": "kadhab",
+    "index": 734
+  },
+  {
+    "english": "To like / To love",
+    "arabic": "حَبّ",
+    "pronunciation": "Habb",
+    "index": 735
+  },
+  {
+    "english": "To live",
+    "arabic": "عاش",
+    "pronunciation": "3aash",
+    "index": 736
+  },
+  {
+    "english": "To look",
+    "arabic": "تْطَلَّع",
+    "pronunciation": "tTalla3",
+    "index": 737
+  },
+  {
+    "english": "To look for",
+    "arabic": "دَوَّر",
+    "pronunciation": "dawwar",
+    "index": 738
+  },
+  {
+    "english": "To lose",
+    "arabic": "خِسِر",
+    "pronunciation": "khisir",
+    "index": 739
+  },
+  {
+    "english": "To make a mistake",
+    "arabic": "غِلِط",
+    "pronunciation": "ghiliT",
+    "index": 740
+  },
+  {
+    "english": "To mean",
+    "arabic": "قَصَد",
+    "pronunciation": "qaSad",
+    "index": 741
+  },
+  {
+    "english": "To measure",
+    "arabic": "قاس",
+    "pronunciation": "qaas",
+    "index": 742
+  },
+  {
+    "english": "To meet",
+    "arabic": "الْتَقى",
+    "pronunciation": "iltaqaa",
+    "index": 743
+  },
+  {
+    "english": "To miss",
+    "arabic": "اشْتاق",
+    "pronunciation": "ishtaaq",
+    "index": 744
+  },
+  {
+    "english": "To mix",
+    "arabic": "خَلَط",
+    "pronunciation": "khalaT",
+    "index": 745
+  },
+  {
+    "english": "To move",
+    "arabic": "تْحَرَّك",
+    "pronunciation": "tHarrak",
+    "index": 746
+  },
+  {
+    "english": "To name/ call",
+    "arabic": "سَمّى",
+    "pronunciation": "sammaa",
+    "index": 747
+  },
+  {
+    "english": "To need",
+    "arabic": "احْتاج",
+    "pronunciation": "iHtaaj",
+    "index": 748
+  },
+  {
+    "english": "To notice",
+    "arabic": "لاحَظ",
+    "pronunciation": "laaHaDH",
+    "index": 749
+  },
+  {
+    "english": "To offer / Symptom",
+    "arabic": "عَرَض",
+    "pronunciation": "3araD",
+    "index": 750
+  },
+  {
+    "english": "To open",
+    "arabic": "فَتَح",
+    "pronunciation": "fataH",
+    "index": 751
+  },
+  {
+    "english": "To park",
+    "arabic": "صاف",
+    "pronunciation": "Saaf",
+    "index": 752
+  },
+  {
+    "english": "To pay",
+    "arabic": "دَفَع",
+    "pronunciation": "dafa3",
+    "index": 753
+  },
+  {
+    "english": "To play",
+    "arabic": "لِعِب",
+    "pronunciation": "li3ib",
+    "index": 754
+  },
+  {
+    "english": "To postpone",
+    "arabic": "أَجَّل",
+    "pronunciation": "ajjal",
+    "index": 755
+  },
+  {
+    "english": "To practice",
+    "arabic": "تْدَرَّب",
+    "pronunciation": "tdarrab",
+    "index": 756
+  },
+  {
+    "english": "To prepare",
+    "arabic": "جَهَّز",
+    "pronunciation": "jahhaz",
+    "index": 757
+  },
+  {
+    "english": "To present",
+    "arabic": "قَدَّم",
+    "pronunciation": "qaddam",
+    "index": 758
+  },
+  {
+    "english": "To press",
+    "arabic": "كَبَس",
+    "pronunciation": "kabas",
+    "index": 759
+  },
+  {
+    "english": "To promise",
+    "arabic": "وَعَد",
+    "pronunciation": "wa3ad",
+    "index": 760
+  },
+  {
+    "english": "To put",
+    "arabic": "حَطّ",
+    "pronunciation": "HaTT",
+    "index": 761
+  },
+  {
+    "english": "To Read",
+    "arabic": "قَرَأ",
+    "pronunciation": "qara’",
+    "index": 762
+  },
+  {
+    "english": "To refuse",
+    "arabic": "رَفَض",
+    "pronunciation": "rafaD",
+    "index": 763
+  },
+  {
+    "english": "To regret",
+    "arabic": "نِدِم",
+    "pronunciation": "nidim",
+    "index": 764
+  },
+  {
+    "english": "To remember",
+    "arabic": "تْذَكَّر",
+    "pronunciation": "tdhakkar",
+    "index": 765
+  },
+  {
+    "english": "To remove sth away",
+    "arabic": "شال",
+    "pronunciation": "shaal",
+    "index": 766
+  },
+  {
+    "english": "To rent",
+    "arabic": "اسْتأجَر",
+    "pronunciation": "ista’jar",
+    "index": 767
+  },
+  {
+    "english": "To repeat",
+    "arabic": "عاد",
+    "pronunciation": "3aad",
+    "index": 768
+  },
+  {
+    "english": "To reserve",
+    "arabic": "حَجَز",
+    "pronunciation": "Hajaz",
+    "index": 769
+  },
+  {
+    "english": "To return",
+    "arabic": "رِجِع",
+    "pronunciation": "riji3",
+    "index": 770
+  },
+  {
+    "english": "To ride",
+    "arabic": "رِكِب",
+    "pronunciation": "rikib",
+    "index": 771
+  },
+  {
+    "english": "To run",
+    "arabic": "رَكَض",
+    "pronunciation": "rakaD",
+    "index": 772
+  },
+  {
+    "english": "To save money",
+    "arabic": "وَفَّر",
+    "pronunciation": "waffar",
+    "index": 773
+  },
+  {
+    "english": "To scratch",
+    "arabic": "حَكّ",
+    "pronunciation": "Hakk",
+    "index": 774
+  },
+  {
+    "english": "To see",
+    "arabic": "شاف",
+    "pronunciation": "shaaf",
+    "index": 775
+  },
+  {
+    "english": "To send",
+    "arabic": "بَعَت / وَدَّى",
+    "pronunciation": "ba3at / waddaa",
+    "index": 776
+  },
+  {
+    "english": "To show",
+    "arabic": "فَرْجى",
+    "pronunciation": "farjaa",
+    "index": 777
+  },
+  {
+    "english": "To sing",
+    "arabic": "غَنَّى",
+    "pronunciation": "ghannaa",
+    "index": 778
+  },
+  {
+    "english": "To sit",
+    "arabic": "قاعَد",
+    "pronunciation": "qaa3ad",
+    "index": 779
+  },
+  {
+    "english": "To sleep",
+    "arabic": "نام",
+    "pronunciation": "naam",
+    "index": 780
+  },
+  {
+    "english": "To smell",
+    "arabic": "شَمّ",
+    "pronunciation": "shamm",
+    "index": 781
+  },
+  {
+    "english": "To spend money",
+    "arabic": "صَرَف",
+    "pronunciation": "Saraf",
+    "index": 782
+  },
+  {
+    "english": "To stand",
+    "arabic": "وِقِف",
+    "pronunciation": "wiqif",
+    "index": 783
+  },
+  {
+    "english": "To start",
+    "arabic": "بَلَّش",
+    "pronunciation": "ballash",
+    "index": 784
+  },
+  {
+    "english": "To steal",
+    "arabic": "سَرَق",
+    "pronunciation": "saraq",
+    "index": 785
+  },
+  {
+    "english": "To stop / To turn sth off",
+    "arabic": "وَقَّف",
+    "pronunciation": "waqqaf",
+    "index": 786
+  },
+  {
+    "english": "To study",
+    "arabic": "دَرَس",
+    "pronunciation": "daras",
+    "index": 787
+  },
+  {
+    "english": "To succeed",
+    "arabic": "نَجَح",
+    "pronunciation": "najaH",
+    "index": 788
+  },
+  {
+    "english": "To suggest",
+    "arabic": "اقْتَرَح",
+    "pronunciation": "iqtaraH",
+    "index": 789
+  },
+  {
+    "english": "To support",
+    "arabic": "دَعَم",
+    "pronunciation": "da3am",
+    "index": 790
+  },
+  {
+    "english": "To surprise",
+    "arabic": "فاجأ",
+    "pronunciation": "faaja’",
+    "index": 791
+  },
+  {
+    "english": "To suspect/ think",
+    "arabic": "ظَنّ",
+    "pronunciation": "DHann",
+    "index": 792
+  },
+  {
+    "english": "To take a picture",
+    "arabic": "صَوَّر",
+    "pronunciation": "Sawwar",
+    "index": 793
+  },
+  {
+    "english": "To take shower",
+    "arabic": "تْحَمَّم",
+    "pronunciation": "tHammam",
+    "index": 794
+  },
+  {
+    "english": "To taste",
+    "arabic": "ذاق",
+    "pronunciation": "dhaaq",
+    "index": 795
+  },
+  {
+    "english": "To teach",
+    "arabic": "عَلَّم",
+    "pronunciation": "3allam",
+    "index": 796
+  },
+  {
+    "english": "To thank",
+    "arabic": "شَكَر",
+    "pronunciation": "shakar",
+    "index": 797
+  },
+  {
+    "english": "To think",
+    "arabic": "فَكَّر",
+    "pronunciation": "fakkar",
+    "index": 798
+  },
+  {
+    "english": "To throw",
+    "arabic": "رَمَى",
+    "pronunciation": "ramaa",
+    "index": 799
+  },
+  {
+    "english": "To tie",
+    "arabic": "رَبَط",
+    "pronunciation": "rabaT",
+    "index": 800
+  },
+  {
+    "english": "To transfer",
+    "arabic": "حَوَّل",
+    "pronunciation": "Hawwal",
+    "index": 801
+  },
+  {
+    "english": "To translate",
+    "arabic": "تَرْجَم",
+    "pronunciation": "tarjam",
+    "index": 802
+  },
+  {
+    "english": "To travel",
+    "arabic": "سافَر",
+    "pronunciation": "saafar",
+    "index": 803
+  },
+  {
+    "english": "To turn sth on",
+    "arabic": "شَغَّل",
+    "pronunciation": "shaghghal",
+    "index": 804
+  },
+  {
+    "english": "To understand",
+    "arabic": "فِهِم",
+    "pronunciation": "fihim",
+    "index": 805
+  },
+  {
+    "english": "To use",
+    "arabic": "اسْتَعْمَل",
+    "pronunciation": "ista3mal",
+    "index": 806
+  },
+  {
+    "english": "To visit",
+    "arabic": "زار",
+    "pronunciation": "zaar",
+    "index": 807
+  },
+  {
+    "english": "To wait",
+    "arabic": "اسْتَنَّى",
+    "pronunciation": "istannaa",
+    "index": 808
+  },
+  {
+    "english": "To wake up",
+    "arabic": "صِحِي",
+    "pronunciation": "SiHi",
+    "index": 809
+  },
+  {
+    "english": "To walk",
+    "arabic": "مَشَى",
+    "pronunciation": "mashaa",
+    "index": 810
+  },
+  {
+    "english": "To want",
+    "arabic": "كان بِدُّه",
+    "pronunciation": "kaan biddo",
+    "index": 811
+  },
+  {
+    "english": "To wash",
+    "arabic": "غَسَل",
+    "pronunciation": "ghasal",
+    "index": 812
+  },
+  {
+    "english": "To watch",
+    "arabic": "حِضِر",
+    "pronunciation": "HiDir",
+    "index": 813
+  },
+  {
+    "english": "To win",
+    "arabic": "فاز",
+    "pronunciation": "faaz",
+    "index": 814
+  },
+  {
+    "english": "To wish/ hope",
+    "arabic": "تْمَنَّى",
+    "pronunciation": "tmannaa",
+    "index": 815
+  },
+  {
+    "english": "To write",
+    "arabic": "كَتَب",
+    "pronunciation": "katab",
+    "index": 816
+  },
+  {
+    "english": "Today",
+    "arabic": "اليوم",
+    "pronunciation": "al-yoom",
+    "index": 817
+  },
+  {
+    "english": "Together",
+    "arabic": "مَع بَعْض / سَوَا",
+    "pronunciation": "ma3 ba3D / sawaa",
+    "index": 818
+  },
+  {
+    "english": "Tomato",
+    "arabic": "بَنْدورَة",
+    "pronunciation": "bandoora",
+    "index": 819
+  },
+  {
+    "english": "Tongue",
+    "arabic": "لِسان",
+    "pronunciation": "lisaan",
+    "index": 820
+  },
+  {
+    "english": "Tooth",
+    "arabic": "سِنّ",
+    "pronunciation": "sinn",
+    "index": 821
+  },
+  {
+    "english": "Tourist",
+    "arabic": "سايِح",
+    "pronunciation": "saayeH",
+    "index": 822
+  },
+  {
+    "english": "Trade",
+    "arabic": "تِجارَة",
+    "pronunciation": "tijaara",
+    "index": 823
+  },
+  {
+    "english": "Tradition",
+    "arabic": "تَقْليد",
+    "pronunciation": "taqliid",
+    "index": 824
+  },
+  {
+    "english": "Train",
+    "arabic": "قِطار",
+    "pronunciation": "qiTaar",
+    "index": 825
+  },
+  {
+    "english": "Translation",
+    "arabic": "تَرْجَمِة",
+    "pronunciation": "tarjameh",
+    "index": 826
+  },
+  {
+    "english": "Tray",
+    "arabic": "صَنِيِّة",
+    "pronunciation": "Saniyyeh",
+    "index": 827
+  },
+  {
+    "english": "Tree",
+    "arabic": "شَجَرَة",
+    "pronunciation": "shajara",
+    "index": 828
+  },
+  {
+    "english": "Triangle",
+    "arabic": "مْثَلَّث",
+    "pronunciation": "mthallath",
+    "index": 829
+  },
+  {
+    "english": "Trip",
+    "arabic": "رَحْلِة مِشْوار",
+    "pronunciation": "raHleh / mishwaar",
+    "index": 830
+  },
+  {
+    "english": "Trousers",
+    "arabic": "بَنْطَلون",
+    "pronunciation": "banTaloon",
+    "index": 831
+  },
+  {
+    "english": "Truth",
+    "arabic": "حَقيقة",
+    "pronunciation": "haqeeqa",
+    "index": 832
+  },
+  {
+    "english": "TV show",
+    "arabic": "مُسَلْسَل",
+    "pronunciation": "musalsal",
+    "index": 833
+  },
+  {
+    "english": "Twenty",
+    "arabic": "عِشْرين",
+    "pronunciation": "3ishreen",
+    "index": 834
+  },
+  {
+    "english": "Twice",
+    "arabic": "مَرّتَيْن",
+    "pronunciation": "marrtayn",
+    "index": 835
+  },
+  {
+    "english": "Two",
+    "arabic": "اتْنَيْن",
+    "pronunciation": "itnayn",
+    "index": 836
+  },
+  {
+    "english": "Ugly",
+    "arabic": "بِشِع",
+    "pronunciation": "bishi3",
+    "index": 837
+  },
+  {
+    "english": "Uncle (maternal) / Uncle (paternal)",
+    "arabic": "خال / عَمّ",
+    "pronunciation": "khaal / 3amm",
+    "index": 838
+  },
+  {
+    "english": "Under",
+    "arabic": "تَحْت",
+    "pronunciation": "taHt",
+    "index": 839
+  },
+  {
+    "english": "University",
+    "arabic": "جامِعَة",
+    "pronunciation": "jaami3a",
+    "index": 840
+  },
+  {
+    "english": "Until",
+    "arabic": "لَحَتّى",
+    "pronunciation": "laHattaa",
+    "index": 841
+  },
+  {
+    "english": "Urgent",
+    "arabic": "عاجِل",
+    "pronunciation": "3aajil",
+    "index": 842
+  },
+  {
+    "english": "Used",
+    "arabic": "مْسْتَعْمَل",
+    "pronunciation": "musta3mal",
+    "index": 843
+  },
+  {
+    "english": "Useful",
+    "arabic": "مُفيد",
+    "pronunciation": "mufiid",
+    "index": 844
+  },
+  {
+    "english": "Usually",
+    "arabic": "عادةً",
+    "pronunciation": "3aadatan",
+    "index": 845
+  },
+  {
+    "english": "Valley",
+    "arabic": "وادي",
+    "pronunciation": "waadiy",
+    "index": 846
+  },
+  {
+    "english": "Vegetables",
+    "arabic": "خُضْراوات",
+    "pronunciation": "khuDraawaat",
+    "index": 847
+  },
+  {
+    "english": "View",
+    "arabic": "مَنْظَر",
+    "pronunciation": "manDHar",
+    "index": 848
+  },
+  {
+    "english": "Village",
+    "arabic": "قَرْيِة",
+    "pronunciation": "qaryeh",
+    "index": 849
+  },
+  {
+    "english": "Virus",
+    "arabic": "فَيْروس",
+    "pronunciation": "fayruus",
+    "index": 850
+  },
+  {
+    "english": "Visit",
+    "arabic": "زْيارَة",
+    "pronunciation": "zyaara",
+    "index": 851
+  },
+  {
+    "english": "Voice",
+    "arabic": "صوت",
+    "pronunciation": "Soot",
+    "index": 852
+  },
+  {
+    "english": "Waiter",
+    "arabic": "نادِل",
+    "pronunciation": "naadil",
+    "index": 853
+  },
+  {
+    "english": "Wall",
+    "arabic": "حَيْط",
+    "pronunciation": "HayT",
+    "index": 854
+  },
+  {
+    "english": "Wallet",
+    "arabic": "مَحْفَظَة",
+    "pronunciation": "maHfaDHa",
+    "index": 855
+  },
+  {
+    "english": "War",
+    "arabic": "حَرْب",
+    "pronunciation": "Harb",
+    "index": 856
+  },
+  {
+    "english": "Watch",
+    "arabic": "ساعة",
+    "pronunciation": "saa3a",
+    "index": 857
+  },
+  {
+    "english": "Water",
+    "arabic": "ماي",
+    "pronunciation": "maay",
+    "index": 858
+  },
+  {
+    "english": "Way",
+    "arabic": "طَريقة",
+    "pronunciation": "Tariiqa",
+    "index": 859
+  },
+  {
+    "english": "We",
+    "arabic": "احنا",
+    "pronunciation": "iHnaa",
+    "index": 860
+  },
+  {
+    "english": "Weak",
+    "arabic": "ضْعيف",
+    "pronunciation": "D3iif",
+    "index": 861
+  },
+  {
+    "english": "Weather",
+    "arabic": "جَوّ",
+    "pronunciation": "jaww",
+    "index": 862
+  },
+  {
+    "english": "Website",
+    "arabic": "مَوْقِع",
+    "pronunciation": "mawqi3",
+    "index": 863
+  },
+  {
+    "english": "Wedding",
+    "arabic": "عُرُس",
+    "pronunciation": "3urus",
+    "index": 864
+  },
+  {
+    "english": "Week",
+    "arabic": "أُسْبوع",
+    "pronunciation": "usbuu3",
+    "index": 865
+  },
+  {
+    "english": "Weird",
+    "arabic": "غَريب",
+    "pronunciation": "ghariib",
+    "index": 866
+  },
+  {
+    "english": "Welcome",
+    "arabic": "أهلاً",
+    "pronunciation": "ahlan",
+    "index": 867
+  },
+  {
+    "english": "Well",
+    "arabic": "تَمام",
+    "pronunciation": "tamaam",
+    "index": 868
+  },
+  {
+    "english": "West",
+    "arabic": "غَرْب",
+    "pronunciation": "gharb",
+    "index": 869
+  },
+  {
+    "english": "What",
+    "arabic": "شو",
+    "pronunciation": "shou",
+    "index": 870
+  },
+  {
+    "english": "When",
+    "arabic": "مَتى",
+    "pronunciation": "mataa",
+    "index": 871
+  },
+  {
+    "english": "Which",
+    "arabic": "إِلِّي",
+    "pronunciation": "illiy",
+    "index": 872
+  },
+  {
+    "english": "While",
+    "arabic": "لَمّا",
+    "pronunciation": "lammaa",
+    "index": 873
+  },
+  {
+    "english": "White",
+    "arabic": "أبْيَض",
+    "pronunciation": "abyaD",
+    "index": 874
+  },
+  {
+    "english": "Who",
+    "arabic": "مين",
+    "pronunciation": "miin",
+    "index": 875
+  },
+  {
+    "english": "Wife",
+    "arabic": "زوجِة",
+    "pronunciation": "zoojeh",
+    "index": 876
+  },
+  {
+    "english": "Will",
+    "arabic": "رح",
+    "pronunciation": "raH",
+    "index": 877
+  },
+  {
+    "english": "Wind",
+    "arabic": "ريح",
+    "pronunciation": "riiH",
+    "index": 878
+  },
+  {
+    "english": "Window",
+    "arabic": "شِبّاك",
+    "pronunciation": "shibbaak",
+    "index": 879
+  },
+  {
+    "english": "Winter",
+    "arabic": "شِتَا",
+    "pronunciation": "shitaa",
+    "index": 880
+  },
+  {
+    "english": "With",
+    "arabic": "مَع",
+    "pronunciation": "ma3",
+    "index": 881
+  },
+  {
+    "english": "Without",
+    "arabic": "بِدون",
+    "pronunciation": "biduun",
+    "index": 882
+  },
+  {
+    "english": "Woman",
+    "arabic": "مَرة",
+    "pronunciation": "mara",
+    "index": 883
+  },
+  {
+    "english": "Word",
+    "arabic": "كِلْمِة",
+    "pronunciation": "kilmeh",
+    "index": 884
+  },
+  {
+    "english": "Worker",
+    "arabic": "عامِل",
+    "pronunciation": "3aamil",
+    "index": 885
+  },
+  {
+    "english": "World",
+    "arabic": "عالَم",
+    "pronunciation": "3aalam",
+    "index": 886
+  },
+  {
+    "english": "Worried",
+    "arabic": "قَلْقان",
+    "pronunciation": "qalqaan",
+    "index": 887
+  },
+  {
+    "english": "Worse",
+    "arabic": "أَسْوَأ",
+    "pronunciation": "aswaa’",
+    "index": 888
+  },
+  {
+    "english": "Wrong",
+    "arabic": "غَلَط",
+    "pronunciation": "ghalaT",
+    "index": 889
+  },
+  {
+    "english": "Yeah",
+    "arabic": "آه",
+    "pronunciation": "aah",
+    "index": 890
+  },
+  {
+    "english": "Year",
+    "arabic": "سَنِة",
+    "pronunciation": "saneh",
+    "index": 891
+  },
+  {
+    "english": "Yellow",
+    "arabic": "أصْفَر",
+    "pronunciation": "aSfar",
+    "index": 892
+  },
+  {
+    "english": "Yes",
+    "arabic": "نَعْم",
+    "pronunciation": "na3m",
+    "index": 893
+  }
+]
