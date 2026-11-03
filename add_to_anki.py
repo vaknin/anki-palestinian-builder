@@ -16,7 +16,7 @@ from pathlib import Path
 from typing import List, Dict, Any, Optional
 
 # Configuration
-WORDS_PER_DAY = 10
+WORDS_PER_DAY = 5
 DECK_NAME = "Arabic"
 REMAINING_WORDS_FILE = Path(__file__).parent / "remaining_words.json"
 BACKUP_FILE = Path(__file__).parent / "levantine_vocabulary.json"
